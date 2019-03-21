@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553145845977.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3050129841",
+    "id" : "A739F884",
+    "lastKnownWriteTime" : 1553145255,
+    "last_content_update" : 1553145255,
+    "path" : "~/Dropbox (Personal)/Website/AASC2020/data/carousel/features.yaml",
+    "project_path" : "data/carousel/features.yaml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
