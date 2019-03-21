@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553145259721.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "77ECF3F4",
+    "lastKnownWriteTime" : 1553145431,
+    "last_content_update" : 1553145431639,
+    "path" : "~/Dropbox (Personal)/Website/AASC2020/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "21,14",
+        "scrollLine" : "19"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
