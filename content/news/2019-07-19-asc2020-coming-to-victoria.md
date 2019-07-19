@@ -1,8 +1,8 @@
 ---
-title: ASC2020 coming to Victoria
+title: AASC2020 coming to Victoria
 author: ''
 date: '2019-07-19'
-slug: asc2020-coming-to-victoria
+slug: aasc2020-coming-to-victoria
 categories: []
 tags: []
 ---
