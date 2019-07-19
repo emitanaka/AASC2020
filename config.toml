@@ -20,17 +20,30 @@ paginate = 10
     name = "Home"
     url  = "/"
     weight = 1
+    
+  
+[[menu.main]]
+    name = "News"
+    identifier = "news"
+    url  = "/news/"
+    weight = 2
+
+[[menu.main]]
+    name = "Code of conduct"
+    identifier = "coc"
+    url  = "/code_of_conduct/"
+    weight = 3
 
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 5
 
 # Top bar social links menu
 
@@ -57,13 +70,13 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "DevCows"
     defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultDescription = "Site template made by devcows using blogdown R package via hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "green"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -99,9 +112,9 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs"></p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+      <p class="hidden-md hidden-lg">
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
       """
@@ -119,7 +132,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
@@ -129,26 +142,26 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
-
+    title = "Invited Speakers"
+    subtitle = ""
+    
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    icon = "fa fa-users"
+    title = ""
+    subtitle = "The Australasian Applied Statistics Conference is an excellent opportunity to liaise with fellow statisticians within the agricultural, biological and environmental sciences and to keep abreast of the most recent developments in statistics within this context."
+    link_url = "https://www.aasc.nz/"
+    link_text = "AASC2018, Rotorua, New Zealand"
 
 [params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Sponsors"
     subtitle = ""
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "News"
+    subtitle = ""
