@@ -12,5 +12,6 @@ title: Contact
 * Donghui Ma (VSN)
 * Emi Tanaka (Monash)
 * Kym L Butler (DEDJTR)
+* Roger Payne (VSN)
 * Sorn Norng (DEDJTR)
 * Subhash Chandra (DEDJTR)
