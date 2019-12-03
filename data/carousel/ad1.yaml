@@ -2,8 +2,8 @@ weight: 4
 title: "AASC2020"
 description: >
   <ul class="list-style-none">
-    <li>Australasian Applied Statistics Conference</li>
+    <li>Australasian Applied Statistics <span style = "color:#0a4531">Conference</span></li>
     <li>1-4 December 2020</li>
-    <li>Victoria, Australia</li>
+    <li>RACV Inverloch Resort, Victoria, Australia</li>
   </ul>
-image: "img/carousel/melbourne.jpeg"
+image: "img/carousel/RACV_Inverloch_493-Large.jpg"

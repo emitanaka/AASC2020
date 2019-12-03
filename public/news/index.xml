@@ -6,10 +6,19 @@
     <description>Recent content in News on Australasian Applied Statistics Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Things to do</title>
+      <link>/news/things-to-do/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/things-to-do/</guid>
+      <description>  </description>
+    </item>
     
     <item>
       <title>AASC2020 coming to Victoria</title>

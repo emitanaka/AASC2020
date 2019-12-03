@@ -137,24 +137,23 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
-[params.testimonials]
+[params.invited]
     enable = true
     # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
+    # at 'exampleSite/data/invited'.
     # For more informtion take a look at the README.
     title = "Invited Speakers"
     subtitle = ""
     
+  
 [params.see_more]
     enable = true
-    icon = "fa fa-users"
+    icon = "fa fa-envelope"
     title = ""
-    subtitle = "The Australasian Applied Statistics Conference is an excellent opportunity to liaise with fellow statisticians within the agricultural, biological and environmental sciences and to keep abreast of the most recent developments in statistics within this context."
-    link_url = "https://www.aasc.nz/"
-    link_text = "AASC2018, Rotorua, New Zealand"
-
-[params.clients]
-    enable = true
+    subtitle = ""
+    
+[params.sponsors]
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
