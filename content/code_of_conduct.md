@@ -2,46 +2,27 @@
 title = "Code of Conduct"
 +++
 
-The organizers of AASC2020 are dedicated to providing a harassment-free conference experience for everyone regardless of gender, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
+The Australasian Applied Statistics Conference (AASC) is dedicated to providing a welcoming and harassment-free experience for everyone. We do not tolerate unprofessional or inappropriate conduct, which includes discrimination and harassment, sexual or otherwise. Conference participants should always work towards maintaining an environment free of harassment and discrimination. At the discretion of the AASC conference organisers, any participants violating these rules may be asked to leave the conference, without any fee refund.
 
-All attendees, speakers, sponsors and volunteers at AASC2020 are required to agree to the following code of conduct. Organizers will enforce this code throughout and expect cooperation in ensuring a safe environment for all.
+Participants agree to:
 
-We do not tolerate harassment of AASC2020 participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, conference events, Twitter and other online media.
+* Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees at all times.
+* Refrain from demeaning, discriminatory, or harassing behaviour and speech.
+* Alert a member of the AASC conference organisers if they notice a dangerous situation, someone in distress, or violation of this code of conduct.
 
-Participants engaging in harassing behavior may be sanctioned in any way organizers deem appropriate. Participants may be given a formally warning to stop the behaviour and expelled if they continue or immediately expelled from the conference without refund and their details will be forwarded to partner institutions and events. Additionally if the harassing behaviour is part of a sponsor display or a talk the display will be removed or the talk stopped as well the other responses listed above.
+Harassment is demeaning or threatening behaviour directed at an individual, or a group of people. Harassment includes, but is not limited to:
 
-AASC2020 attendants agree to:
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, person’s lifestyle choices and practices, physical appearance, age, race, religion (or lack thereof) or beliefs;
+* Unwelcome sexual attention and behaviour including inappropriate sexual propositions; unnecessary touching; verbal or written comments or physical actions of a sexual nature; sexually degrading words used to describe an individual; a display of sexually suggestive objects or pictures; or sexually explicit jokes; and
+* Threatening behaviour including bullying, threat of violence, deliberate intimidation, stalking or incitement of violence.
 
-- Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: 
-    - Stalking
-    - Deliberate intimidation
-    - Unwanted photography or recording
-    - Discriminatory images in public spaces
-    - Sustained or willful disruption of talks or other events
-    - Use of sexual or discriminatory imagery, comments, or jokes
-    - Offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual 
-    - Inappropriate physical contact, which can include grabbing as well as hugging without asking or massaging without asking.
-    - Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information.
-- Alert a member of the code of conduct response team (listed below) if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
+## Reporting
 
-If you are asked to stop harassing behaviour you should stop immediately, even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all conference attendees you should stop.
+If you are being harassed by a member/guest/participant of/at the AASC Conference, or notice that someone else is being harassed, or have any other concerns, please contact the designated safety officers in the conference team. The current safety officers can be found under [response team](#response-team) below. If the person who is harassing you is one of the safety officers, they will recuse themselves from handling your incident and will not be given any information without your explicit consent. We will respond as promptly as we can.
 
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material.
+## Response Team
 
-# Requirements for talks
-
-Talk slides and presentations fall under the code of conduct. Talk slides should not contain offensive of sexualised material. If this material is impossible to avoid given the topic (for example text mining of material from hate sites) the existence of this material should be noted both in the abstract and at the start of the talk.
-
-# Need help?
-
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the AASC2020 code of conduct response team  (listed below).
-
-AASC2020 organiser may also be contacted, and can put you in direct contact with a member of the response team, or contact them on your behalf. 
-
-Response team:
-
-- TBA
+* TBA
 
 
-Adapted from user2018.r-project.org.
+Adapted from https://ausbiometric2019.org/conduct/.

@@ -28,11 +28,11 @@ paginate = 10
     url  = "/news/"
     weight = 2
 
-#[[menu.main]]
-#    name = "Code of conduct"
-#    identifier = "coc"
-#    url  = "/code_of_conduct/"
-#    weight = 3
+[[menu.main]]
+    name = "Code of conduct"
+    identifier = "coc"
+    url  = "/code_of_conduct/"
+    weight = 3
 
 [[menu.main]]
     name = "FAQ"
