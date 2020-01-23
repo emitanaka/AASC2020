@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop on Australasian Applied Statistics Conference</title>
+    <link>/categories/workshop/</link>
+    <description>Recent content in workshop on Australasian Applied Statistics Conference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workshop: Tidy Model Selection for PractioneRs</title>
+      <link>/news/workshop-tidy-model-selection-for-practioners/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/workshop-tidy-model-selection-for-practioners/</guid>
+      <description>Tidy Model Selection for PractioneRs Model selection is fundamental in many scientific fields for gaining insight into how response/s are informed by a set of measured predictors. This workshop focuses on two key aspects of the model selection routine for practitioners: (1) introducing and implementing a variety of model selection approaches including stepwise procedures, information criterion, and regularisation and screening methods for (generalised) linear models, and (2) constructing a reproducible and streamlined tidy workflow from data wrangling → model fitting and selection → reporting of results and evaluation of selection procedure/s as a whole.</description>
+    </item>
+    
+  </channel>
+</rss>
