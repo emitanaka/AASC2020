@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>invited on Australasian Applied Statistics Conference</title>
+    <link>/categories/invited/</link>
+    <description>Recent content in invited on Australasian Applied Statistics Conference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/invited/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Invited Speaker: Dr Francis Hui</title>
+      <link>/news/invited-speaker-dr-francis-hui/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/invited-speaker-dr-francis-hui/</guid>
+      <description>All Under One Roof – The Rise of Joint Species Distribution Modeling in Ecology</description>
+    </item>
+    
+  </channel>
+</rss>

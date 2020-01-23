@@ -6,10 +6,19 @@
     <description>Recent content on Australasian Applied Statistics Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invited Speaker: Dr Francis Hui</title>
+      <link>/news/invited-speaker-dr-francis-hui/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/invited-speaker-dr-francis-hui/</guid>
+      <description>All Under One Roof – The Rise of Joint Species Distribution Modeling in Ecology</description>
+    </item>
     
     <item>
       <title>Things to do</title>
@@ -17,7 +26,9 @@
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/news/things-to-do/</guid>
-      <description>  </description>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MchECDmC8EY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_aGEv5iE7PU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
@@ -63,7 +74,9 @@
       
       <guid>/faq/</guid>
       <description>Do I have to register for the conference to sign up for the workshop?
- No. You can register for the workshop alone.</description>
+ No. You can register for the workshop alone.
+ Is there a code of conduct for this conference?
+ Yes there is. Registrants are required to abide by code of conduct found here.</description>
     </item>
     
   </channel>

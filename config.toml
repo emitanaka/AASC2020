@@ -29,12 +29,6 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Code of conduct"
-    identifier = "coc"
-    url  = "/code_of_conduct/"
-    weight = 3
-
-[[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
@@ -63,7 +57,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:murray.Hannah@agriculture.vic.gov.au"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]

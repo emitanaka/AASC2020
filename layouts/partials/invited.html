@@ -17,6 +17,7 @@
 
                 <ul class="owl-carousel testimonials same-height-row">
                     {{ range .Site.Data.invited }}
+                    <a href= {{ .link | markdownify }} >
                     <li class="item">
                         <div class="testimonial same-height-always">
                             <div class="text">
@@ -37,7 +38,7 @@
                                 </div>
                             </div>
                         </div>
-                    </li>
+                    </li></a>
                     {{ end }}
                 </ul>
                 <!-- /.owl-carousel -->
