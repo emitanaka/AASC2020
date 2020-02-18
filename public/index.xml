@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Australasian Applied Statistics Conference</title>
@@ -6,10 +6,58 @@
     <description>Recent content on Australasian Applied Statistics Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invited Speaker: Dr Arthur Gilmour</title>
+      <link>/news/invited-speaker-dr-arthur-gilmour/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/invited-speaker-dr-arthur-gilmour/</guid>
+      <description>ASReML in Practice Biography: Arthur Gilmour obtained his B Sc Agr from Sydney University majoring in Biometry in 1970 with a NSW Government traineeship. He then served as a biometrician until his retirement from NSW Agriculture as a Principal Research Scientist in 2009. From the outset, he was involved in software development to meet the current statistical analysis needs of his clients and colleagues. He obtained his PhD in animal breeding from Massey University in 1983 during which time he came into contact with Robin Thompson.</description>
+    </item>
+    
+    <item>
+      <title>Invited Speaker: Dr Petra Kuhnert</title>
+      <link>/news/invited-speaker-dr-petra-kuhnert/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/invited-speaker-dr-petra-kuhnert/</guid>
+      <description>Deep Learning for prediction and forecasting of Agricultural processes</description>
+    </item>
+    
+    <item>
+      <title>Invited Speaker: Prof Di Cook</title>
+      <link>/news/invited-speaker-prof-di-cook/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/invited-speaker-prof-di-cook/</guid>
+      <description>Data visualisation: Bridging the long-standing gap between exploratory and inferential statistics</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Visualization and Data Mining</title>
+      <link>/news/workshop-visualization-and-data-mining/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/workshop-visualization-and-data-mining/</guid>
+      <description>Visualization and Data Mining Morning session: Sustenance for the every day statistical analysis This part covers making plots using the grammar of graphics and how this fits into statistical inference. We will use the tidyverse suite of packages and nullabor.
+Afternoon session: Looking at the model in the data space This part will cover the use of tours to examine multivariate spaces, in relation to various data mining methods, including dimension reduction, supervised and unsupervised classification models.</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Genstat 20ed Masterclass: data mining and advanced modelling</title>
+      <link>/news/workshop-genstat-20ed-masterclass-data-mining-and-advanced-modelling/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/workshop-genstat-20ed-masterclass-data-mining-and-advanced-modelling/</guid>
+      <description>Genstat 20ed Masterclass: data mining and advanced modelling In this masterclass we will explore some of the data mining and more advanced statistical modelling facilities available in Genstat. As not all these facilities are available in the menus, the session will begin with a brief recap of Genstat’s command language.
+Topics will include:
+ Genstat command language data mining  association rules self-organising maps discriminant analysis support vector machines classification trees and random forests $k$-nearest-neighbours classification   advanced modelling  specialised regression (e.</description>
+    </item>
     
     <item>
       <title>Invited Speaker: A/Prof Emyln Williams</title>
@@ -45,7 +93,6 @@
       
       <guid>/news/things-to-do/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MchECDmC8EY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_aGEv5iE7PU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
@@ -82,7 +129,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description> AASC Organising Committee  Murray Hannah (Agriculture Victoria, Chair) Khageswor Giri (Agriculture Victoria, Secretary) Debra Partington (Agriculture Victoria, Treasurer) Kym Butler (Agriculture Victoria) Sorn Norng (Agriculture Victoria) Subhash Chandra (Agriculture Victoria) Andrew Van Burgel (DPIRD) Donghui Ma (VSN) Emi Tanaka (Monash) Roger Payne (VSN)  </description>
+      <description>AASC Organising Committee  Murray Hannah (Agriculture Victoria, Chair) Khageswor Giri (Agriculture Victoria, Secretary) Debra Partington (Agriculture Victoria, Treasurer) Kym Butler (Agriculture Victoria) Sorn Norng (Agriculture Victoria) Subhash Chandra (Agriculture Victoria) Andrew Van Burgel (DPIRD) Donghui Ma (VSN) Emi Tanaka (Monash) Roger Payne (VSN)  </description>
     </item>
     
     <item>

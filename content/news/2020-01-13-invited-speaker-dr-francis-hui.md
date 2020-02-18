@@ -11,7 +11,7 @@ summary: "All Under One Roof – The Rise of Joint Species Distribution Modeling
 
 ## All Under One Roof – The Rise of Joint Species Distribution Modeling in Ecology
 
-
+<img src="/img/speakers/francis.jpg" width="200px"/>
 
 ### Biography:
 

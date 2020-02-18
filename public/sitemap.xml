@@ -1,17 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/invited/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/invited-speaker-dr-arthur-gilmour/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/invited-speaker-dr-petra-kuhnert/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/invited-speaker-prof-di-cook/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/workshop/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/workshop-visualization-and-data-mining/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/workshop-genstat-20ed-masterclass-data-mining-and-advanced-modelling/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -20,26 +58,8 @@
   </url>
   
   <url>
-    <loc>/news/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/news/workshop-tidy-model-selection-for-practioners/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/invited/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/workshop/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -76,7 +96,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

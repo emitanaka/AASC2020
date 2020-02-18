@@ -10,18 +10,12 @@ link: "news/invited-speaker-a-prof-emyln-williams"
 summary: "The application of CycDesigN in designing experiments for use in agriculture"
 ---
 
+
 ## The application of CycDesigN in designing experiments for use in agriculture
 
-CycDesigN version 7.0 (CD7) has extensive features for the design of field and glasshouse
-experiments, including plant phenotyping. This talk will focus on the substantial new facilities
-available in CD7, in particular neighbour balance and evenness of distribution (NB &amp; ED) designs as
-applied to resolvable, non-resolvable, single and multi-location partially replicated designs. A
-number of examples will be presented.
+<img src="/img/speakers/erw_photo.jpg" width="200px"/>
 
-Piepho, H.-P., Michel, V. &amp; Williams, E.R. (2018). Neighbour balance and evenness of distribution
-of treatment replications in row-column designs. Biometrical Journal 60, 1172-1189.
-
-## Brief Bio
+### Biography:
 
 Emlyn worked as a statistical consultant with CSIRO for 35 years before becoming Director of the
 Statistical Consulting Unit at ANU (2006-2013). He has wide experience in the application of
@@ -34,3 +28,15 @@ conjunction with computer packages. He has served on the Central Council of the 
 Biometric Society and has been an Associate Editor for the Australian and New Zealand Journal of
 Statistics and Biometrics. He is currently a coeditor of the JABES special issue &quot;Recent advances in
 design and analysis of experiments and observational studies in agriculture&quot;.
+
+### Talk Overview:
+
+CycDesigN version 7.0 (CD7) has extensive features for the design of field and glasshouse
+experiments, including plant phenotyping. This talk will focus on the substantial new facilities
+available in CD7, in particular neighbour balance and evenness of distribution (NB &amp; ED) designs as
+applied to resolvable, non-resolvable, single and multi-location partially replicated designs. A
+number of examples will be presented.
+
+Piepho, H.-P., Michel, V. &amp; Williams, E.R. (2018). Neighbour balance and evenness of distribution
+of treatment replications in row-column designs. Biometrical Journal 60, 1172-1189.
+

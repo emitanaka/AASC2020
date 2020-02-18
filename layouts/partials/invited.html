@@ -15,7 +15,7 @@
 
                 <!-- *** INVITED SPEAKERS CAROUSEL *** -->
 
-                <ul class="owl-carousel testimonials same-height-row">
+                <ul id="move-owl" class="owl-carousel testimonials same-height-row">
                     {{ range .Site.Data.invited }}
                     <a href= {{ .link | markdownify }} >
                     <li class="item">

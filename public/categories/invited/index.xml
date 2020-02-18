@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>invited on Australasian Applied Statistics Conference</title>
@@ -6,10 +6,37 @@
     <description>Recent content in invited on Australasian Applied Statistics Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/invited/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invited Speaker: Dr Arthur Gilmour</title>
+      <link>/news/invited-speaker-dr-arthur-gilmour/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/invited-speaker-dr-arthur-gilmour/</guid>
+      <description>ASReML in Practice Biography: Arthur Gilmour obtained his B Sc Agr from Sydney University majoring in Biometry in 1970 with a NSW Government traineeship. He then served as a biometrician until his retirement from NSW Agriculture as a Principal Research Scientist in 2009. From the outset, he was involved in software development to meet the current statistical analysis needs of his clients and colleagues. He obtained his PhD in animal breeding from Massey University in 1983 during which time he came into contact with Robin Thompson.</description>
+    </item>
+    
+    <item>
+      <title>Invited Speaker: Dr Petra Kuhnert</title>
+      <link>/news/invited-speaker-dr-petra-kuhnert/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/invited-speaker-dr-petra-kuhnert/</guid>
+      <description>Deep Learning for prediction and forecasting of Agricultural processes</description>
+    </item>
+    
+    <item>
+      <title>Invited Speaker: Prof Di Cook</title>
+      <link>/news/invited-speaker-prof-di-cook/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/invited-speaker-prof-di-cook/</guid>
+      <description>Data visualisation: Bridging the long-standing gap between exploratory and inferential statistics</description>
+    </item>
     
     <item>
       <title>Invited Speaker: A/Prof Emyln Williams</title>

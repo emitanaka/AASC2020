@@ -139,6 +139,11 @@ paginate = 10
     title = "Invited Speakers"
     subtitle = ""
     
+[params.workshop]
+    enable = true
+    title = "Workshops"
+    subtitle = ""
+    
   
 [params.see_more]
     enable = true
@@ -158,3 +163,6 @@ paginate = 10
     enable = true
     title = "News"
     subtitle = ""
+    
+[markup.goldmark.renderer]
+  unsafe= true

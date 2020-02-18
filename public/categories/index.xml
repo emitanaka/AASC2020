@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Australasian Applied Statistics Conference</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Australasian Applied Statistics Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>invited</title>
       <link>/categories/invited/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/invited/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>workshop</title>
       <link>/categories/workshop/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/workshop/</guid>
       <description></description>
