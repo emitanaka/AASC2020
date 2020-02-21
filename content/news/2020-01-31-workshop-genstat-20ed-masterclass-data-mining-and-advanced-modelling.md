@@ -14,6 +14,7 @@ tags: []
 In this masterclass we will explore some of the data mining and more advanced statistical modelling facilities available in Genstat. As not all these facilities are available in the menus, the session will begin with a brief recap of Genstat’s command language.
 
 Topics will include:
+
 * **Genstat command language**
 * **data mining**
   * association rules
