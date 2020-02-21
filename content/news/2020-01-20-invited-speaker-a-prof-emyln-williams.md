@@ -7,11 +7,11 @@ categories:
   - invited
 tags: []
 link: "news/invited-speaker-a-prof-emyln-williams"
-summary: "The application of CycDesigN in designing experiments for use in agriculture"
+summary: "CycDesigN V7 for designing field and glasshouse, including plant phenotyping, experiments"
 ---
 
 
-## The application of CycDesigN in designing experiments for use in agriculture
+## CycDesigN V7 for designing field and glasshouse, including plant phenotyping, experiments
 
 <img src="/img/speakers/erw_photo.jpg" width="200px"/>
 
