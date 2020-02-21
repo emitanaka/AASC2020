@@ -22,7 +22,7 @@ Topics will include:
   * discriminant analysis
   * support vector machines
   * classification trees and random forests
-  * $k$-nearest-neighbours classification
+  * k-nearest-neighbours classification
 * **advanced modelling**
   * specialised regression (e.g. lasso, quantile regression)
   * comparisons and contrasts in regression and REML
