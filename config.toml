@@ -27,6 +27,13 @@ paginate = 10
     identifier = "news"
     url  = "/news/"
     weight = 2
+    
+[[menu.main]]
+    name = "Programme"
+    identifier = "programme"
+    url  = "/programme/"
+    weight = 3
+
 
 [[menu.main]]
     name = "FAQ"
