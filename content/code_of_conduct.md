@@ -12,7 +12,7 @@ Participants agree to:
 
 Harassment is demeaning or threatening behaviour directed at an individual, or a group of people. Harassment includes, but is not limited to:
 
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, person’s lifestyle choices and practices, physical appearance, age, race, religion (or lack thereof) or beliefs;
+* Malicious comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, person’s lifestyle choices and practices, physical appearance, age, race, religion (or lack thereof) or beliefs;
 * Unwelcome sexual attention and behaviour including inappropriate sexual propositions; unnecessary touching; verbal or written comments or physical actions of a sexual nature; sexually degrading words used to describe an individual; a display of sexually suggestive objects or pictures; or sexually explicit jokes; and
 * Threatening behaviour including bullying, threat of violence, deliberate intimidation, stalking or incitement of violence.
 
