@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on Australasian Applied Statistics Conference</title>
+    <link>/categories/2022/</link>
+    <description>Recent content in 2022 on Australasian Applied Statistics Conference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/2022/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genstat development in difficult times</title>
+      <link>/news/genstat-development-in-difficult-times/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/genstat-development-in-difficult-times/</guid>
+      <description>The AASC conference is always a highlight for us at VSN, and it is a real disappointment that we cannot meet this year. Nevertheless it is good to be able to keep in touch by email, MS Teams and Zoom - and to know that you are keeping safe.
+The Genstat team is dispersed over the two hemispheres, and so we are used to collaborating at a distance. Genstat development has continued almost unaffected, and I am glad to have this opportunity to tell you what we have been doing.</description>
+    </item>
+    
+  </channel>
+</rss>
