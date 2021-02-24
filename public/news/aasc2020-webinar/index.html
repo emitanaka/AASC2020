@@ -6,7 +6,7 @@
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Genstat development in difficult times</title>
+  <title>AASC2020 Webinar</title>
   <meta name="author" content="" />
 
   
@@ -56,9 +56,9 @@
   <link rel="alternate" href="https://aasc2020.netlify.com/index.xml" type="application/rss+xml" title="Australasian Applied Statistics Conference">
 
   
-  <meta property="og:title" content="Genstat development in difficult times" />
+  <meta property="og:title" content="AASC2020 Webinar" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="/news/genstat-development-in-difficult-times//" />
+  <meta property="og:url" content="/news/aasc2020-webinar//" />
   <meta property="og:image" content="img/logo.png" />
 
 
@@ -79,7 +79,7 @@
                 <a class="navbar-brand home" href="https://aasc2020.netlify.com/">
                     
                     AASC2022
-                    <span class="sr-only">Genstat development in difficult times - go to homepage</span>
+                    <span class="sr-only">AASC2020 Webinar - go to homepage</span>
                 </a>
                 <div class="navbar-buttons">
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
@@ -158,7 +158,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Genstat development in difficult times</h1>
+                <h1>AASC2020 Webinar</h1>
             </div>
         </div>
     </div>
@@ -174,10 +174,79 @@
 
                     <div class="col-md-9" id="blog-post">
 
-                        <p class="text-muted text-uppercase mb-small text-right">By <a href="#">Roger Payne</a> | October 21, 2020</p>
+                        <p class="text-muted text-uppercase mb-small text-right">November 18, 2020</p>
 
                         <div id="post-content">
-                          <p>The AASC conference is always a highlight for us at VSN, and it is a real disappointment that we cannot
+                          <ul>
+<li><a href="#abstract1">ASReml and Genomic models</a></li>
+<li><a href="#abstract2">Development of Genomic tools to support ASReml-R</a></li>
+<li><a href="#abstract3">Genstat development in difficult times</a></li>
+</ul>
+<h2 id="abstract1">ASReml and Genomic models</h2>
+<p><em>Arthur R Gilmour</em></p>
+<p>It is 50 years since Arthur began working as a biometrician with NSW DPI (1970) having majored in
+biometry in the 4th year of his B Sc AGr (Sydney). He wrote software for the group as well as analysing
+variety trials and consulting with research scientists. This became the pattern for his career.</p>
+<p>His alliance with Robin Thompson commenced in 1981 when Robin visited Massey University and
+continues today. Robin proposed the Average Information algorithm to Arthur in 1991 resulting in the
+development of ASReml in 1996. ASReml was particularly targetedat the analysis of plant breeding data
+with spatially correlated residuals and of animal breeding data utilising pedigree relationships. It was
+immediately adopted by many researchers, its core being soon included in Genstat by Sue Welham and
+into the ASReml-R procedure by David Butler.</p>
+<p>Arthur retired from NSW DPI in 2009 and VSN purchased ASReml from NSW DPI and RR in 2010/12. The
+University of Wollongong funded Arthur to continue supporting ASReml for 3 years until VSN took up
+that role in 2014. The contract was revised in 2018/9 to resolve issues arising from the development of
+Echidna (EchidnaMMS.org) whose commercial use is restricted to ASReml licensees. Echidna has proved
+a useful platform to trial various improvements to ASReml.</p>
+<p>ASReml 4.1 (2014) involved a major upgrade to the user interface with the adoption of a functional
+syntax for model specification similar to that already developed for ASReml-R.</p>
+<p>Since then, the focus has been on improving the speed of ASReml 4.2 when fitting less sparse models.
+The SPARSE matrix methods as implemented in ASReml were inefficient for less sparse models and it has
+taken 6 years to make reasonable progress speeding up 10 different blocks of code for these models.
+Three things have contributed to the speed up: use of parallel processing, use of BLOCK processing
+rather than row by row processing and more efficient ordering of some operations. Even so, I expect
+further improvement is possible. Recent benchmarking against ASReml 4.1 for a model including a
+dense genomic relationship matrix of order 3200 showed 4.2 was 10 times faster than 4.1. The factor
+varies from 1 to 100 depending on the data set and model.</p>
+<p>Modelling enhancements include (Double) HierarchalGeneralized Linear Models and bivariate GLMM
+(but not for multiple threshold models).
+ASReml-R 4 is based on ASReml 4.1 and a free student licence is available. An update based on ASReml
+4.2 is in preparation by David Butler. ASReml 4.2 is also free for approved students.</p>
+<p>I thank Jesus Christ and VSN for their continued support and the opportunity to help explore aspects of
+this incredible world He created.</p>
+<h2 id="abstract2">Development of Genomic tools to support ASReml-R</h2>
+<p><em>Salvador Gezan</em></p>
+<p>ASReml is a mature statistical software for the analysis of complex linear mixed models using Residual
+Maximum likelihood (REML) that is widely used in plant and animal breeding. ASReml is a batch program
+that can be executed using operating system level commands. An interactive interface, ASReml-W
+allows to organize, run commands, and display input and output files in a friendly manner using ASReml
+in the background.</p>
+<p>In contrast, ASReml-R is a package that runs inside the R environment with the same capabilities as
+ASReml, but it uses all the available statistical computing and graphics that R provides. R language is
+widely used by the scientific community to perform a range of statistical and mathematical analyses
+through its thousands of libraries available. This environment has allowed ASReml-R users to exploit all
+its capabilities by developing analytical pipelines around data and output from ASReml-R.</p>
+<p>The increased availability of molecular data for many crops and species has expanded the quantitative
+genetic analyses and allowed for accelerating selection of outstanding genotypes and greater genetic
+gains. Here, the use of genomic prediction (GP) and genome-wide association studies (GWAS) have
+become a critical tool to achieve these benefits. ASReml-R is particularly suited to fit genomic selection
+models, such as GBLUP and rrBLUP, with the use of its powerful REML and mixed model machinery
+allowing for flexible and complex model fitting. However, these analyses require some complex preprocessing of molecular, phenotypic and, in some cases, pedigree datasets. In addition, the output from
+these models often requires post-processing toprovide the summarizedinformation breeders require
+for their programs.</p>
+<p>ASRgenomics is an R supporting package developed within VSN International to complement and
+facilitate the use of this genomic information within ASReml-R. This package contains efficient and
+useful R functions that help on pre-processing of data, such as filtering and generating additive and
+dominant genomic matrices, for GBLUP or ssGBLUP analyses. In addition, it has functions that help to
+assess the quality of the data to perform genomic studies by pairing pedigree-based against genomicbased relationship matrices using both statistical and graphical output, among other things. All these
+functions are designed to generate objects to be used directly by ASReml-R, or objects from the model
+fitting that generate additional information.</p>
+<p>An open supporting and independent package such as ASRgenomics will allow user to facilitate and
+expedite analytical pipelines, but will also allow for fast and better interaction with other scientists from
+the community to incorporate new genomic developments using the machinery of ASReml successfully.</p>
+<h2 id="abstract3">Genstat development in difficult times</h2>
+<p><em>Roger Payne</em></p>
+<p>The AASC conference is always a highlight for us at VSN, and it is a real disappointment that we cannot
 meet this year. Nevertheless it is good to be able to keep in touch by email, MS Teams and Zoom - and
 to know that you are keeping safe.</p>
 <p>The Genstat team is dispersed over the two hemispheres, and so we are used to collaborating at a
