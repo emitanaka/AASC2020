@@ -169,7 +169,7 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "News"
+    title = "Program"
     subtitle = ""
     
 [markup.goldmark.renderer]

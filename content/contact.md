@@ -5,9 +5,9 @@ title: Contact
 
 # AASC Organising Committee
 
-* Murray Hannah (Agriculture Victoria, Chair)
-* Khageswor Giri (Agriculture Victoria, Secretary)
-* Debra Partington (Agriculture Victoria, Treasurer)
+* Murray Hannah (Agriculture Victoria, Chair) ✉️ murray.hannah@agriculture.vic.gov.au
+* Khageswor Giri (Agriculture Victoria, Secretary) ✉️ khageswor.giri@agriculture.vic.gov.au
+* Debra Partington (Agriculture Victoria, Treasurer) ✉️ debra.partington@agriculture.vic.gov.au
 * Kym Butler (Agriculture Victoria)
 * Sorn Norng (Agriculture Victoria)
 * Subhash Chandra (Agriculture Victoria)
