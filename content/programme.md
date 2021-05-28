@@ -6,7 +6,7 @@ keywords:
 title: Draft Programme
 ---
 
-Please note that the programme below may be subject to some changes.
+Please note that the programme below may be subject to change.
 
 <ul class="nav nav-tabs">
   <li class="nav-item">
@@ -28,7 +28,7 @@ Please note that the programme below may be subject to some changes.
           <table>
           <tr>
             <th>Time</th>
-            <th>Monday 30/11/2020</th>
+            <th>Monday 28/11/2022</th>
           </tr>
           <tr>
             <td>8:30-9:00</td>
