@@ -33,6 +33,18 @@ paginate = 10
     identifier = "programme"
     url  = "/programme/"
     weight = 3
+    
+[[menu.main]]
+    name = "Programme"
+    url  = "/programme/"
+    weight = 1
+    parent = "programme"
+    
+[[menu.main]]
+    name = "Social Programme"
+    url  = "/social/"
+    weight = 2
+    parent = "programme"
 
 
 [[menu.main]]
@@ -95,7 +107,7 @@ paginate = 10
     email = "your@email.com"
 
     about_us = "<p>.</p>"
-    copyright = "Copyright (c) 2019 - 2020, AGUAi; all rights reserved."
+    copyright = "Copyright &copy; 2019 - 2021, AGUAi; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -169,7 +181,7 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "Program"
+    title = "Updates"
     subtitle = ""
     
 [markup.goldmark.renderer]
