@@ -51,11 +51,17 @@ paginate = 10
     url  = "/programme/"
     weight = 1
     parent = "programme"
+
+[[menu.main]]
+    name = "Workshops"
+    url  = "/workshops/"
+    weight = 2
+    parent = "programme"
     
 [[menu.main]]
     name = "Social Programme"
     url  = "/social/"
-    weight = 2
+    weight = 3
     parent = "programme"
 
 
@@ -100,7 +106,7 @@ paginate = 10
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    #Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "green"
 
     # Since this template is static, the contact form uses www.formspree.io as a
