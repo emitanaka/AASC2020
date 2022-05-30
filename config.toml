@@ -33,6 +33,12 @@ paginate = 10
     identifier = "speakers"
     url  = "/speakers/"
     weight = 3
+
+[[menu.main]]
+    name = "Abstract Submission"
+    identifier = "abstract"
+    url  = "/abstract/"
+    weight = 4
     
 [[menu.main]]
     name = "Registration"
