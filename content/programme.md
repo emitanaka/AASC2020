@@ -10,10 +10,13 @@ Please note that the programme below may be subject to change.
 
 <ul class="nav nav-tabs">
   <li class="nav-item">
-    <a class="nav-link active" data-toggle="tab" href="#workshop">Workshop</a>
+    <a class="nav-link active" data-toggle="tab" href="#workshop">Workshops</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" data-toggle="tab" href="#tuesday">Tuesday</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" data-toggle="tab" href="#wednesday">Wednesday</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" data-toggle="tab" href="#thursday">Thursday</a>
@@ -128,6 +131,10 @@ Please note that the programme below may be subject to change.
             <td colspan=2  class="tr-highlight">Poster Session</td>
           </tr>
         </table>
+  </div>
+  <div class="tab-pane" id="wednesday">
+         <h3>Social Programs</h3>
+         See <a href="/social/">Social Programme</a> for details.
   </div>
   <div class="tab-pane" id="thursday">
               <table>
