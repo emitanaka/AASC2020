@@ -3,7 +3,7 @@ description: Conference Registration Information
 title: Registration
 ---
 
-Registration will open on 1st June 2022.
+Registration will open on 2nd June 2022.
 
 
 
