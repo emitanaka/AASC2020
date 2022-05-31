@@ -5,30 +5,9 @@ title: Social Programme
 
 # Tours
 
+**NB:** The quoted cost of each tour includes transport and entrance fees _only_.
+
 There are 4 paid social tour options plus a free coastal walk optional extra. Some tours can be combined. See the [table below](#tour-combinations) for information.
-
-## George Bass Coastal Walk
-
-**Cost:** Free, but requires booking another tour for bus transport.
-
-**Numbers:** limited to bus capacity
-
-**Duration:** ~4 hrs total
-
-**More information:** Approximately 7km walk. https://www.visitvictoria.com/regions/phillip-island/see-and-do/outdoor-and-adventure/walking-and-hiking/vv-george-bass-coastal-walk
-
-
-## Phillip Island Penguin Parade
-	
-**Cost:** AUD $70
-
-**Numbers:** limited to bus capacity
-
-**Duration:** ~7 hours total
-
-**More information:** 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WFkWfsUHtJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 ## Phillip Island Seal Rocks Boat Cruise
@@ -41,6 +20,7 @@ There are 4 paid social tour options plus a free coastal walk optional extra. So
 
 **More information:** https://www.wildlifecoastcruises.com.au/cruises/seal-watching/
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w47jWWFLpFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Churchill Island
@@ -60,6 +40,28 @@ https://www.visitphillipisland.com.au/products/churchill-island
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YF9zYhytmkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## George Bass Coastal Walk
+
+**Cost:** Free, but requires booking also on either [Churchill Island](#churchill-island) or [Seal Rocks tour](#phillip-island-seal-rocks-boat-cruise), for bus transport.
+
+**Numbers:** limited to bus capacity
+
+**Duration:** An additional 2.5 hrs to those tours.
+
+**More information:** Approximately 7km walk. https://www.visitvictoria.com/regions/phillip-island/see-and-do/outdoor-and-adventure/walking-and-hiking/vv-george-bass-coastal-walk
+
+
+## Phillip Island Penguin Parade
+	
+**Cost:** AUD $70
+
+**Numbers:** limited to bus capacity
+
+**Duration:** ~7 hours total
+
+**More information:** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WFkWfsUHtJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Cidery and Winery
