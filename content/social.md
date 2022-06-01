@@ -106,7 +106,7 @@ Because of transport constraints people taking this walk are obliged to join eit
 <br>
 Each combination, A to K, involves about 1.5 h to 2 h of bus travel in total, except for E which is more like 3.5 h travel, due to the Winery and Penguins being in almost exact opposite directions, East and West. 
 
-The cost of each tour covers transport and entrance fees where applicable. These costs do not include meals. Lunches and dinners are to be purchased by individuals along the way at scheduled stops (as indicated below).
+The cost of each tour covers transport and entrance fees where applicable. These costs do not include meals. Lunches and dinners are to be purchased by individuals along the way at scheduled stops (as indicated above).
 
 Numbers will be limited by the number of available seats on buses. Buses will often be shared by more than one tour at a time, where direction and timing are compatible. If options are over- or under-subscribed, we may need to cancel and/or refund some individual bookings. We reserve the right to cancel elements if unviable.
 
