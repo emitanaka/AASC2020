@@ -225,6 +225,11 @@ Numbers will be limited by the number of available seats on busses. Busses will 
 
 See more details about the social program <a href="/social/#tour-combinations">here</a>.
 
+<hr>
+<br>
+
+# Register Now
+
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="expressEmbed" data-eid="912658"></div>
 
