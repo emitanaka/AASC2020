@@ -3,11 +3,13 @@ id: contact
 title: Contact
 ---
 
+For enquiries please email ✉️ [aasconf2022@gmail.com](mailto:aasconf2022@gmail.com).
+
 # AASC Organising Committee
 
-* Murray Hannah (Agriculture Victoria, Chair) ✉️ [aasconf2022@gmail.com](mailto:aasconf2022@gmail.com)
-* Debra Partington (Agriculture Victoria, Treasurer) ✉️ [aasconf2022@gmail.com](mailto:aasconf2022@gmail.com)
-* Khageswor Giri (Agriculture Victoria, Secretary) ✉️ [aasconf2022@gmail.com](mailto:aasconf2022@gmail.com)
+* Murray Hannah (Agriculture Victoria, Chair) 
+* Debra Partington (Agriculture Victoria, Treasurer) 
+* Khageswor Giri (Agriculture Victoria, Secretary) 
 * Subhash Chandra: VIC
 * David Baird: NZ
 * Vanessa Cave: NZ
