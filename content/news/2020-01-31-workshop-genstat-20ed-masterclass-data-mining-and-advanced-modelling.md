@@ -26,9 +26,9 @@ Topics will include:
 * **Advanced modelling**
   * specialised regression (e.g. lasso, quantile regression)
   * comparisons and contrasts in regression and REML
-  *GLMMs and HGLMs - how do they differ and what are their advantages/disadvantages?
-  *new facilities for assessing fixed models in REML
-  *generating reports and exporting results (i.e. interoperability)
+  * GLMMs and HGLMs - how do they differ and what are their advantages/disadvantages?
+  * new facilities for assessing fixed models in REML
+  * generating reports and exporting results (i.e. interoperability)
   
 The sessions will involve a mixture of examples and practicals, so please bring your laptops (ideally with Genstat 20ed already installed).
 

@@ -44,13 +44,31 @@ paginate = 10
     name = "Registration"
     identifier = "registration"
     url  = "/registration/"
-    weight = 4
+    weight = 5
+    
+    [[menu.main]]
+      name = "Registration"
+      url  = "/registration/"
+      weight = 1
+      parent = "registration"
+    
+    [[menu.main]]
+      name = "Accommodation"
+      url  = "/accommodation/"
+      weight = 2
+      parent = "registration"
+
+[[menu.main]]
+    name = "Workshops"
+    url  = "/workshops/"
+    weight = 2
+    parent = "programme"
 
 [[menu.main]]
     name = "Programme"
     identifier = "programme"
     url  = "/programme/"
-    weight = 5
+    weight = 6
     
 [[menu.main]]
     name = "Programme"
@@ -75,12 +93,12 @@ paginate = 10
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 7
+    weight = 8
 
 # Top bar social links menu
 
