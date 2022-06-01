@@ -5,13 +5,21 @@ title: Contact
 
 # AASC Organising Committee
 
-* Murray Hannah (Agriculture Victoria, Chair) ✉️ [murray.hannah@agriculture.vic.gov.au](mailto:murray.hannah@agriculture.vic.gov.au)
-* Khageswor Giri (Agriculture Victoria, Secretary) ✉️ [khageswor.giri@agriculture.vic.gov.au](mailto:khageswor.giri@agriculture.vic.gov.au)
-* Debra Partington (Agriculture Victoria, Treasurer) ✉️ [debra.partington@agriculture.vic.gov.au](mailto:debra.partington@agriculture.vic.gov.au)
-* Kym Butler (Agriculture Victoria)
-* Sorn Norng (Agriculture Victoria)
-* Subhash Chandra (Agriculture Victoria)
-* Andrew Van Burgel (DPIRD) 
-* Donghui Ma (VSN)
-* Emi Tanaka (Monash)
-* Roger Payne (VSN)
+* Murray Hannah (Agriculture Victoria, Chair) ✉️ [aasconf2022@gmail.com](mailto:aasconf2022@gmail.com)
+* Debra Partington (Agriculture Victoria, Treasurer) ✉️ [aasconf2022@gmail.com](mailto:aasconf2022@gmail.com)
+* Khageswor Giri (Agriculture Victoria, Secretary) ✉️ [aasconf2022@gmail.com](mailto:aasconf2022@gmail.com)
+* Subhash Chandra: VIC
+* David Baird: NZ
+* Vanessa Cave: NZ
+* Chris Triggs: NZ
+* Ruth Butler: NZ
+* Angela Anderson: QLD
+* Pauline O'Shaughnessy: NSW
+* Emi Tanaka: VIC
+* Kym Butler: VIC
+* Sorn Norng: VIC
+* Peter Kasprzak: SA
+* Pierre Lafaye de Micheaux: NSW
+* Benoit Liquet: NSW                                                   
+* Roger Payne: VSNi                                                          
+
