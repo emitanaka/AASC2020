@@ -72,6 +72,158 @@ All prices listed below are in Australian Dollars ($ AUD).
 </ul>
 </div>
 
+<h2>Conference tour detail</h2>
+
+<div style="text-align:left">
+
+When you pack for this conference bear in mind that in late November, Victoria can dish up any kind of weather, and probably will. Four seasons in one day is unusual, but not that unusual. So be prepared for the extremes of hot and cold which ever excursion you have in mind. 
+Eleven tour options are available.  Each is comprised of a combination of the following five elements:
+
+<ol style="text-align:left">
+<li>Cidery & Winery tour</li>
+<li>Penguin Parade</li>
+<li>Churchill Island</li>
+<li>Seal Rocks </li>
+<li>George Bass Coastal Walk (in conjunction with Churchill Island or Seal Rocks only)</li>
+</ol>
+
+Some detail on each of these five elements is given below. Valid combinations are given in the rows A-K of the following table:
+
+<table style="text-align:center">
+  <tr>
+    <th>Combination</th>
+    <th>Cidery/Winery</th>
+    <th>Churchill Island</th>
+    <th>Seal Rocks</th>
+    <th>Penguin Parade</th>
+    <th>Coastal Walk</th>
+    <th>Cost $AU</th>
+    <th>Approx Duration (h)</th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>&#10004;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>$40</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td></td>
+    <td>&#10004;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>$55</td>
+    <td>7.5</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td></td>
+    <td></td>
+    <td>&#10004;</td>
+    <td></td>
+    <td></td>
+    <td>$120</td>
+    <td>7.5</td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&#10004;</td>
+    <td></td>
+    <td>$70</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>&#10004;</td>
+    <td></td>
+    <td></td>
+    <td>&#10004;</td>
+    <td></td>
+    <td>$110</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td></td>
+    <td>&#10004;</td>
+    <td></td>
+    <td>&#10004;</td>
+    <td></td>
+    <td>$85</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td>G</td>
+    <td></td>
+    <td></td>
+    <td>&#10004;</td>
+    <td>&#10004;</td>
+    <td></td>
+    <td>$150</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td>H</td>
+    <td></td>
+    <td>&#10004;</td>
+    <td></td>
+    <td></td>
+    <td>&#10004;</td>
+    <td>$55</td>
+    <td>9.5</td>
+  </tr>
+    <tr>
+    <td>I</td>
+    <td></td>
+    <td></td>
+    <td>&#10004;</td>
+    <td></td>
+    <td>&#10004;</td>
+    <td>$120</td>
+    <td>9.5</td>
+  </tr>
+  <tr>
+    <td>J</td>
+    <td></td>
+    <td>&#10004;</td>
+    <td></td>
+    <td>&#10004;</td>
+    <td>&#10004;</td>
+    <td>$85</td>
+    <td>15.5</td>
+  </tr>
+  <tr>
+    <td>K</td>
+    <td></td>
+    <td></td>
+    <td>&#10004;</td>
+    <td>&#10004;</td>
+    <td>&#10004;</td>
+    <td>$120</td>
+    <td>15.5</td>
+  </tr>
+</table>
+
+<br>
+
+Each combination, A to K, involves about 1.5 h to 2 h of bus travel in total, except for E which is more like 3.5 h travel, due to the Winery and Penguins being in almost exact opposite directions, East and West. 
+
+The cost of each tour covers transport and entrance fees where applicable. These costs do not include meals. Lunches and dinners are to be purchased by individuals along the way at scheduled stops (as indicated below).
+
+Numbers will be limited by the number of available seats on busses. Busses will often be shared by more than one tour at a time, where direction and timing are compatible. If options are over- or under-subscribed, we may need to cancel and/or refund some individual bookings. We reserve the right to cancel Elements if unviable.
+
+</div>
+
+
+See more details about the social program <a href="/social/#tour-combinations">here</a>.
 
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="expressEmbed" data-eid="912658"></div>
