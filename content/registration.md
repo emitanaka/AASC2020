@@ -7,6 +7,15 @@ title: Registration
 <h2>Conference prices</h2>
 All prices listed below are in Australian Dollars ($ AUD).
 
+
+<h4>Registration covers:</h4>
+<div style="text-align:left; display: inline-block;">
+<ol>
+<li>Workshop:  Lunch and morning/afternoon tea, Bus transport from to Melbourne on Sunday, 
+<li>The conference fee includes lunches and morning/afternoon teas, welcome dinner buffet, canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday and Monday and drop off to Melbourne Airport on Friday.
+</ol>
+</div>
+
 <h3>Regular attendees</h3>
 <table style="margin:auto;text-align:left;">
 <thead>
@@ -72,161 +81,57 @@ All prices listed below are in Australian Dollars ($ AUD).
 </ul>
 </div>
 
-<h2>Conference tour detail</h2>
+<h2>Conference Social Programmes</h2>
 
-<div style="text-align:left">
+See more details about the social program <a href="/social/#tour-combinations">here</a>.
 
-When you pack for this conference bear in mind that in late November, Victoria can dish up any kind of weather, and probably will. Four seasons in one day is unusual, but not that unusual. So be prepared for the extremes of hot and cold which ever excursion you have in mind. 
-Eleven tour options are available.  Each is comprised of a combination of the following five elements:
+<h2>Transportation</h2>
+<h3>Melbourne Airport and Melbourne City Pick Up </h3>
+Shuttle services to RACV Resort, Inverloch from Melbourne Airport and Southern Cross Train Station are provided for the conference attendees on the following dates and times (Melbourne time).
 
-<ol style="text-align:left">
-<li>Cidery & Winery tour</li>
-<li>Penguin Parade</li>
-<li>Churchill Island</li>
-<li>Seal Rocks </li>
-<li>George Bass Coastal Walk (in conjunction with Churchill Island or Seal Rocks only)</li>
-</ol>
+<br>
 
-Some detail on each of these five elements is given below. Valid combinations are given in the rows A-K of the following table:
+<table>
+<table style="margin:auto;text-align:left;">
 
-<table style="text-align:center">
+<tbody>
   <tr>
-    <th>Combination</th>
-    <th>Cidery/Winery</th>
-    <th>Churchill Island</th>
-    <th>Seal Rocks</th>
-    <th>Penguin Parade</th>
-    <th>Coastal Walk</th>
-    <th>Cost $AU</th>
-    <th>Approx Duration (h)</th>
+    <th colspan="3">Pick up</th>
   </tr>
   <tr>
-    <td>A</td>
-    <td>&#10004;</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>$40</td>
-    <td>6</td>
+    <td>Day and Date </td>
+    <td>Airport</td>
+    <td>Southern Cross Train Station</td>
   </tr>
   <tr>
-    <td>B</td>
-    <td></td>
-    <td>&#10004;</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>$55</td>
-    <td>7.5</td>
+    <td> Sunday, 27/11/2022</td>
+    <td>2:00 pm</td>
+    <td>2:45 pm</td>
   </tr>
   <tr>
-    <td>C</td>
-    <td></td>
-    <td></td>
-    <td>&#10004;</td>
-    <td></td>
-    <td></td>
-    <td>$120</td>
-    <td>7.5</td>
+    <td>Monday, 28/11/2022</td>
+    <td>1:00 pm</td>
+    <td>1:45 pm</td>
   </tr>
   <tr>
-    <td>D</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>&#10004;</td>
-    <td></td>
-    <td>$70</td>
-    <td>7</td>
+    <th colspan="3">Return</th>
   </tr>
   <tr>
-    <td>E</td>
-    <td>&#10004;</td>
-    <td></td>
-    <td></td>
-    <td>&#10004;</td>
-    <td></td>
-    <td>$110</td>
-    <td>13</td>
+    <td>Friday, 02/12/2022</td>
+    <td>5:15 pm</td>
+    <td>4:30</td>
   </tr>
-  <tr>
-    <td>F</td>
-    <td></td>
-    <td>&#10004;</td>
-    <td></td>
-    <td>&#10004;</td>
-    <td></td>
-    <td>$85</td>
-    <td>13</td>
-  </tr>
-  <tr>
-    <td>G</td>
-    <td></td>
-    <td></td>
-    <td>&#10004;</td>
-    <td>&#10004;</td>
-    <td></td>
-    <td>$150</td>
-    <td>13</td>
-  </tr>
-  <tr>
-    <td>H</td>
-    <td></td>
-    <td>&#10004;</td>
-    <td></td>
-    <td></td>
-    <td>&#10004;</td>
-    <td>$55</td>
-    <td>9.5</td>
-  </tr>
-    <tr>
-    <td>I</td>
-    <td></td>
-    <td></td>
-    <td>&#10004;</td>
-    <td></td>
-    <td>&#10004;</td>
-    <td>$120</td>
-    <td>9.5</td>
-  </tr>
-  <tr>
-    <td>J</td>
-    <td></td>
-    <td>&#10004;</td>
-    <td></td>
-    <td>&#10004;</td>
-    <td>&#10004;</td>
-    <td>$85</td>
-    <td>15.5</td>
-  </tr>
-  <tr>
-    <td>K</td>
-    <td></td>
-    <td></td>
-    <td>&#10004;</td>
-    <td>&#10004;</td>
-    <td>&#10004;</td>
-    <td>$120</td>
-    <td>15.5</td>
-  </tr>
+</tbody>
 </table>
 
 <br>
 
-Each combination, A to K, involves about 1.5 h to 2 h of bus travel in total, except for E which is more like 3.5 h travel, due to the Winery and Penguins being in almost exact opposite directions, East and West. 
 
-The cost of each tour covers transport and entrance fees where applicable. These costs do not include meals. Lunches and dinners are to be purchased by individuals along the way at scheduled stops (as indicated below).
+<h3>Return to Melbourne Airport </h3>
+Conference attendees will be offered a drop off service to Melbourne Airport, departing RACV Inverloch 1:30 pm and estimated to arrive at Melbourne Airport at 5:15 pm on Friday, 02/12/2022. 
 
-Numbers will be limited by the number of available seats on busses. Busses will often be shared by more than one tour at a time, where direction and timing are compatible. If options are over- or under-subscribed, we may need to cancel and/or refund some individual bookings. We reserve the right to cancel Elements if unviable.
-
-</div>
-
-
-See more details about the social program <a href="/social/#tour-combinations">here</a>.
 
 <hr>
-<br>
 
 # Register Now
 
