@@ -1,15 +1,15 @@
 ---
-title: 'Workshop: Genstat 20ed Masterclass: data mining and advanced modelling'
+title: 'Workshop: Genstat 22 Masterclass: data mining and advanced modelling'
 author: ''
 date: '2020-01-31'
-slug: workshop-genstat-20ed-masterclass-data-mining-and-advanced-modelling
+slug: workshop-genstat-22-masterclass-data-mining-and-advanced-modelling
 categories:
   - workshop
 tags: []
 ---
 
 
-## Genstat 20ed Masterclass: data mining and advanced modelling
+## Genstat 22 Masterclass: data mining and advanced modelling
 
 In this masterclass we will explore some of the data mining and more advanced statistical modelling facilities available in Genstat. As not all these facilities are available in the menus, the session will begin with a brief recap of Genstat’s command language.
 
@@ -30,7 +30,7 @@ Topics will include:
   * new facilities for assessing fixed models in REML
   * generating reports and exporting results (i.e. interoperability)
   
-The sessions will involve a mixture of examples and practicals, so please bring your laptops (ideally with Genstat 20ed already installed).
+The sessions will involve a mixture of examples and practicals, so please bring your laptops (ideally with Genstat 22 already installed).
 
 
 ## Biography of Workshop Presenters
