@@ -230,6 +230,12 @@ See more details about the social program <a href="/social/#tour-combinations">h
 
 # Register Now
 
+To register, select a button from the table below.
+
+To book conference/workshop and a tour, first register for the conference/workshop (select Regular or Student pricing), complete the forms and then click on the ‘>Buy more tickets’ link at the check-out cart (at the bottom left of cart window), and proceed to register for the Tour/Social event. This results in a single receipt statement.
+
+If you need separate receipts for the conference and a tour, complete the booking process separately for each. This involves some repetition.
+
 <script async defer src="https://www.trybooking.com/widget.js"></script>
 <div class="tryb-widget" data-type="expressEmbed" data-eid="912658"></div>
 
