@@ -11,8 +11,8 @@ All prices listed below are in Australian Dollars ($ AUD).
 <h4>Registration covers:</h4>
 <div style="text-align:left; display: inline-block;">
 <ol>
-<li>Workshop:  Lunch and morning/afternoon tea, Bus transport from to Melbourne on Sunday, 
-<li>The conference fee includes lunches and morning/afternoon teas, welcome dinner buffet, canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday and Monday and drop off to Melbourne Airport on Friday.
+<li>Workshop:  Attendance, lunch and morning/afternoon tea
+<li>The conference fee includes attendance, lunches and morning/afternoon teas, welcome dinner buffet, canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday or Monday and drop off to Melbourne Airport on Friday.
 </ol>
 </div>
 
