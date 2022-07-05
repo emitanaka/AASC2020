@@ -101,7 +101,7 @@ This talk will discuss new thinking that incorporates data visualisation into th
 
 Emlyn worked as a statistical consultant with CSIRO for 35 years before becoming Director of the Statistical Consulting Unit at ANU (2006-2013).  He has wide experience in the application of statistical methods and has published around 150 journal articles and 2 books.  In 2019 he received the E.A. Cornish Award from the Australasian Region of the International Biometric Society in recognition of his longtime service to the Biometric Society and to the advancement of Biometry.
 
-Emlyn's main areas of research interest are in the design and analysis of experiments and the use of mixed models in practice.  He is also actively involved in the development and maintenance of the design generation package [CycDesigN](http//www.vsni.co.uk/software/cycdesign/).
+Emlyn's main areas of research interest are in the design and analysis of experiments and the use of mixed models in practice.  He is also actively involved in the development and maintenance of the design generation package [CycDesigN](https://vsni.co.uk/software/cycdesign).
 
 Emlyn has given many short courses in Australia and overseas with a focus on statistical training in conjunction with computer packages. He has served on the Central Council of the International Biometric Society and has been an Associate Editor for the Australian and New Zealand Journal of Statistics and Biometrics and was a coeditor of the JABES 2020 special issue "Recent advances in design and analysis of experiments and observational studies in agriculture".
 
