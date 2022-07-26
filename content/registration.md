@@ -145,8 +145,8 @@ If you need separate receipts for the conference and a tour, complete the bookin
 <div class="tryb-widget" data-type="expressEmbed" data-eid="912658"></div>
 
 
-<div class="container" style="text-align:center">
-<h2>Important dates</h2>
+## Important dates
+
 <table style="margin:auto;text-align:left;">
     <tr><th>What</th><th>Date</th></tr>
     <tr><td>Registration opens</td><td>1st June 2022</td></tr>
@@ -160,7 +160,21 @@ If you need separate receipts for the conference and a tour, complete the bookin
     <tr><td>Conference</td><td>29th November - 2nd December 2022</td></tr>
     
 </table>
+
+
+
+<div class="container" style="text-align:left">
+<h2>Cancellation Policy</h2>
+
+
+Cancellations must be notified in writing to aasconf2022@gmail.com
+
+Cancellations notified before 1st October 2022 will be given an 80% refund. After this date but prior to 10th November the refund will be 50%. After 10th November 2022 there will be no refund. This policy applies to conference registrations and to the social program.
+
+ 
+
+In the case of the conference being cancelled, full refund excluding an administration fee of $AUD20 will be provided. 
 </div>
 
-<br><br>
 
+<br><br>
