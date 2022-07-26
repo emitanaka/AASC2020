@@ -7,7 +7,7 @@ For enquiries please email ✉️ [aasconf2022@gmail.com](mailto:aasconf2022@gma
 
 # AASC Organising Committee
 
-* Murray Hannah (Agriculture Victoria, Chair) 
+* Murray Hannah (Chair) 
 * Debra Partington (Agriculture Victoria, Treasurer) 
 * Khageswor Giri (Agriculture Victoria, Secretary) 
 * Subhash Chandra: VIC
