@@ -1,12 +1,12 @@
 ---
-title: 'Invited Speaker: A/Prof Emyln Williams'
+title: 'Invited Speaker: A/Prof Emlyn Williams'
 author: ''
 date: '2020-01-20'
-slug: invited-speaker-a-prof-emyln-williams
+slug: invited-speaker-a-prof-emlyn-williams
 categories:
   - invited
 tags: []
-link: "news/invited-speaker-a-prof-emyln-williams"
+link: "news/invited-speaker-a-prof-emlyn-williams"
 summary: "CycDesigN V7 for designing field and glasshouse, including plant phenotyping, experiments"
 ---
 

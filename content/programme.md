@@ -207,7 +207,7 @@ Please note that the programme below may be subject to change.
           <tr>
             <td>9:15-10:00</td>
             <td>Emlyn Williams</td>
-            <td>CycDesigN V7 for designing field and glasshouse, including plant phenotype, experiments</td>
+            <td>CycDesigN V7 for designing field and glasshouse, including plant phenotyping, experiments</td>
           </tr>
           <tr>
             <td>10:00-10:30</td>
