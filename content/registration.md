@@ -7,6 +7,8 @@ title: Registration
 <h2>Conference prices</h2>
 All prices listed below are in Australian Dollars ($ AUD).
 
+<b>Please note that registration for day attendances are pending and would appear in TryBooking shortly.</b>
+
 
 <h4>Registration covers:</h4>
 <div style="text-align:left; display: inline-block;">
