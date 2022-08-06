@@ -7,14 +7,13 @@ title: Registration
 <h2>Conference prices</h2>
 All prices listed below are in Australian Dollars ($ AUD).
 
-<b>Please note that registration for day attendances are pending and would appear in TryBooking shortly.</b>
-
 
 <h4>Registration covers:</h4>
 <div style="text-align:left; display: inline-block;">
 <ol>
-<li>Workshop:  Attendance, lunch and morning/afternoon tea
-<li>The conference fee includes attendance, lunches and morning/afternoon teas, welcome dinner buffet, canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday or Monday and drop off to Melbourne Airport on Friday.
+<li>Workshop:  Attendance, lunch and morning/afternoon tea</li>
+<li>The conference fee includes attendance, lunches and morning/afternoon teas, welcome dinner buffet, canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday or Monday and drop off to Melbourne Airport on Friday.</li>
+<li>The conference fee for a day includes attendance on the day, lunches and morning/afternoon teas.  To book these you will need to send an email to aasconf2022@gmail.com</li>
 </ol>
 </div>
 
@@ -42,6 +41,11 @@ All prices listed below are in Australian Dollars ($ AUD).
     <td>Workshop Registration only</td>
     <td>$150</td>
     <td>$200</td>
+  </tr>
+  <tr>
+    <td>Day Registration only</td>
+    <td>$300</td>
+    <td>$330</td>
   </tr>
 </tbody>
 </table>
@@ -71,6 +75,11 @@ All prices listed below are in Australian Dollars ($ AUD).
     <td>Workshop Registration only</td>
     <td>$100</td>
     <td>$120</td>
+  </tr>
+  <tr>
+    <td>Day Registration only</td>
+    <td>$150</td>
+    <td>$200</td>
   </tr>
 </tbody>
 </table>
