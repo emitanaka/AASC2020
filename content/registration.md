@@ -154,14 +154,12 @@ To book conference/workshop and a tour, first register for the conference/worksh
 
 If you need separate receipts for the conference and a tour, complete the booking process separately for each. This involves some repetition.
 
-As you register for the conference, choose to stay informed about future AASConferences and eligible to vote on who gets to organise the next AASConference, by accepting free membership of AGUAi.
-(AGUAi - The Australasian Genstat Users Association inc. was established to organise the Australasion Genstat Conference which subsequently became the Austalasian Applied Statistics Conference)
+As you register for the conference, choose to stay informed about future AASConferences and eligible to vote on who gets to organise the next AASConference, by accepting free membership of AGUAi. AGUAi (The Australasian Genstat Users Association Inc.) was established to organise the Australasion Genstat Conference which subsequently became the Austalasian Applied Statistics Conference.
 
 The formal objectives of AGUAi are: 
 
 * to foster association between persons involved or interested in using Genstat
-* to foster association between persons involved or interested in the application of
-statistical methods
+* to foster association between persons involved or interested in the application of statistical methods
 * to organise meetings and events focussed on statistical and statistical computing issues.
 
 The Rules of Association are available <a href="files/AGUAi rules of Association 2019.pdf" download>here</a>. 
