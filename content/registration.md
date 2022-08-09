@@ -141,9 +141,11 @@ Shuttle services to RACV Resort, Inverloch from Melbourne Airport and Southern C
 <h3>Return to Melbourne Airport </h3>
 Conference attendees will be offered a drop off service to Melbourne Airport, departing RACV Inverloch 1:30 pm and estimated to arrive at Melbourne Airport at 5:15 pm on Friday, 02/12/2022. 
 
+</div>
+
 <hr>
 
-# Register Now
+# Register Now  
 
 To register, select a button from the table below.
 
@@ -198,7 +200,6 @@ Cancellations notified before 1st October 2022 will be given an 80% refund. Afte
  
 
 In the case of the conference being cancelled, full refund excluding an administration fee of $AUD20 will be provided. 
-</div>
 </div>
 
 <br><br>
