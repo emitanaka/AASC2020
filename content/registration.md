@@ -163,7 +163,7 @@ The formal objectives of AGUAi are:
 * to foster association between persons involved or interested in the application of statistical methods
 * to organise meetings and events focussed on statistical and statistical computing issues.
 
-The Rules of Association are available <a href="files/AGUAi rules of Association 2019.pdf" download>here</a>. 
+The Rules of Association are available <a href="../files/AGUAi_rules_of_Association_2019.pdf" download>here</a>. 
 
 </div>
 
