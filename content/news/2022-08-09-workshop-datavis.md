@@ -1,7 +1,7 @@
 ---
 title: 'Workshop: Data Visualisation with R'
 author: ''
-date: '2020-08-09'
+date: '2022-08-09'
 slug: workshop-datavis
 categories:
   - workshop
