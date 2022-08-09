@@ -8,6 +8,8 @@ categories:
 tags: []
 ---
 
+[This workshop is now cancelled]{style="color:red;"} and replaced with Data Visualisation with R. 
+
 ## Visualization and Data Mining
 
 ### Morning session: Sustenance for the every day statistical analysis
