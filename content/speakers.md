@@ -16,25 +16,10 @@ Arthur Gilmour obtained his B Sc Agr from Sydney University majoring in Biometry
 The linear mixed model has proved a very useful tool for data analysis, especially in the contexts of plant and animal breeding, agricultural experimentation and data exploration.  The design of ASReml allows it to fit a large range of linear mixed models in a variety of contexts.  The key features are the use of various correlation structures, use of direct product variance structures and sparse computing methods facilitating the fitting of large models.  The linear mixed model has been extended to generalised linear mixed models and hierarchal generalised linear mixed models.  The paper will outline the joint model of mean and dispersion.  
 
 
-## Deep Learning for prediction and forecasting of Agricultural processes
-
-<img src="/img/speakers/petra_2019_crop.jpg" width="200px"/>
-
-### Biography:
-
-Petra is a Research Statistician in CSIRO’s Data61. She has a PhD in applied statistics, focussing more recently on hybrid prediction approaches that utilise machine learning and deep learning methods. She has an interest in spatio-temporal modelling and developing methods for uncertainty quantification and visualisation to aid decision-making.
-
-Petra is the Activity Leader for the Hybrid Prediction Activity in the Machine Learning and Artificial Intelligence (MLAI) Future Science Platform (FSP) within CSIRO, where the focus is on re-imagining complex and constrained biogeophysical processes with MLAI to support decision-making. She is also leading a team within the Digiscape FSP, focussing on developing an uncertainty toolbox, an open source tool to assist with uncertainty quantification and visualisation. 
+## Emulating the Spark bushfire model
 
 
-
-### Talk Overview:
-
-Over the past decade, agricultural practices have been disrupted by the next generation of decision support tools.  The development of new high-tech machinery, analytics operating in the Cloud, and cheap sensors that capture large volumes of information in space and time have resulted in challenges for the decision-makers in determining how best to manage their farm.
-
-The development of new analytics for decision-making is driven by the need to better quantify predictions and forecasts of agricultural systems in space and time given a range of very large and complex datasets and under a range of modelling paradigms.   While there are a number of analytical approaches being proposed, very few properly take into account uncertainty in all aspects of an agricultural system and furthermore, even fewer, take uncertainty into account in decision-making practices.
-
-In this talk, I will explore deep learning as a tool for learning complex and non-linear agricultural processes in space and time and how uncertainty can be tackled in this framework to accompany predictions from these models.  I will compare these methods with machine learning approaches like Random Forests and other more traditional approaches for modelling crop yields and comment on the use of deep learning practices for the future.  
+by Carolyn Huston
 
 
 ## All Under One Roof – The Rise of Joint Species Distribution Modeling in Ecology
@@ -66,32 +51,23 @@ growing software market. Finally, I will discuss related research opportunities 
 latent variable models are applied, such as in the analysis of multi-environmental field trials in plant breeding.
 
 
-## Data visualisation: Bridging the long-standing gap between exploratory and inferential statistics
+## Practical steps toward reproducibility
 
-<img src="/img/speakers/dicook-2019.png" width="200px"/>
+<img src="/img/speakers/patricia.jpg" width="200px"/>
 
 
 ### Biography:
 
-Dianne Cook is Professor of Business Analytics at Monash University in
-Melbourne, Australia.  She is a world leader in data visualisation,
-especially the visualisation of high-dimensional data using tours with
-low-dimensional projections, and projection pursuit.  She is currently
-focussing on bridging the gap between exploratory graphics and
-statistical inference. It is sometimes said that she is more famous
-for the students who have emerged from her group, including  Hadley
-Wickham, Yihui Xie, Carson Sievert, and most recently, Monash student
-Earo Wang. Di is a Fellow of the American Statistical Association, was
-recently the editor of the Journal of Computational and Graphical
-Statistics, an elected Ordinary Member of the R Foundation, and
-elected member of the International Statistical Institute.
+Patricia Menéndez is a senior lecturer at the Department of Econometrics and Business Statistics at Monash University Business School.
+Patricia's training is in mathematics and Statistics and she received her PhD from ETH Zurich in Switzerland. Since completing her PhD she has held academic positions at Wageningen University, University of New South Wales and University of Queensland. Before joining the department she has also worked outside academia as statistician/ecological statistician for the NSW Bureau of Crime Statistics and Research, and for the Australian Institute of Marine Science. 
+
+Patricia has expertise developing and applying statistical methodology and computational methods as well as providing statistical training both in academic and non-academic environments. During her time outside of academia, she has  worked on multidisciplinary projects to answer research and policy-making questions in the fields of climate change, environmental and marine sciences besides criminology.  
+
+Her research interests include statistical inference, functional data analysis, methods for time series, computational statistics, data visualisation and data science tools.
 
 ### Talk Overview:
 
-Exploratory data analysis (EDA) and model diagnostics (MD) are two data analytic activities that rely primarily on visual displays and only secondarily on numerical summaries. Roughly speaking, we may associate EDA with what we do to raw data before we fit a complex model and MD with what we do to transformed data after we fit a model. EDA, more so than MD, has sometimes received an ambivalent response. When seen positively, it is cast as an exciting part of statistics that has to do with ‘discovery’ and ‘detective work’; when seen negatively, EDA is cast as the part of statistics that results in unsecured findings at best, and in the over- or misinterpretation of data at worst. Either way, EDA seems to be lacking something: discoveries need to be confirmed and over-interpretations of data need to be prevented.  The mirror image of EDA’s and MD’s inferential failings is confirmatory statistics’ potential failure to find the obvious. When subordinating common sense to rigid testing protocols for the sake of valid inference, confirmatory data analysis risks using tests and confidence intervals in assumed models that should never have been fitted, when EDA before, or MD after, fitting could have revealed that the approach to the data is flawed and the structure of the data required altogether different methods.
-
-This talk will discuss new thinking that incorporates data visualisation into the inferential framework. This brings statistics close to the field of data science, making it easier for statisticians to be explorers and discoverers, as well as skeptics.
-
+Government organisations, industry players, and universities are embracing the notion of reproducibility around projects involving statistical and data analyses as a cornerstone in their working practices. It has become a basic requirement that projects be built in a reproducible manner to ensure that consistent computational results are obtained when using the same input data, computational methods, code and conditions for analysis. In this talk, I will discuss practical steps that can help managers and data science practitioners to set up their statistics and data analysis projects in a reproducible way. Meanwhile, I will also address some of the fundamental challenges in making work reproducible. I will draw on a few examples from my experience working outside of academia and discuss how reproducibility can be incorporated in university curriculums.
 
 ## The application of CycDesigN in designing experiments for use in agriculture
 

@@ -9,6 +9,9 @@ tags: []
 summary: "Data visualisation: Bridging the long-standing gap between exploratory and inferential statistics"
 ---
 
+Please note that this talk is cancelled due to speaker's unavailability.
+
+
 ## Data visualisation: Bridging the long-standing gap between exploratory and inferential statistics
 
 <img src="/img/speakers/dicook-2019.png" width="200px"/>

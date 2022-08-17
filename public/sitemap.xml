@@ -3,113 +3,142 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/aasc2020-webinar/</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <loc>https://aasc2022.netlify.com/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <loc>https://aasc2022.netlify.com/categories/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/</loc>
-    <lastmod>2020-11-18T00:00:00+00:00</lastmod>
+    <loc>https://aasc2022.netlify.com/news/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/genstat-development-in-difficult-times/</loc>
+    <loc>https://aasc2022.netlify.com/categories/workshop/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/news/workshop-datavis/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/news/aasc2020-webinar/</loc>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/news/genstat-development-in-difficult-times/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/categories/</loc>
+    <loc>https://aasc2022.netlify.com/news/dare-session/</loc>
+    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/categories/invited/</loc>
+    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/news/invited-speaker-dr-arthur-gilmour/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/categories/invited/</loc>
+    <loc>https://aasc2022.netlify.com/news/invited-speaker-dr-petra-kuhnert/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/invited-speaker-dr-arthur-gilmour/</loc>
+    <loc>https://aasc2022.netlify.com/news/invited-speaker-prof-di-cook/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/invited-speaker-dr-petra-kuhnert/</loc>
+    <loc>https://aasc2022.netlify.com/news/workshop-visualization-and-data-mining/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/invited-speaker-prof-di-cook/</loc>
-    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aasc2020.netlify.com/categories/workshop/</loc>
-    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aasc2020.netlify.com/news/workshop-visualization-and-data-mining/</loc>
-    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aasc2020.netlify.com/news/workshop-genstat-20ed-masterclass-data-mining-and-advanced-modelling/</loc>
+    <loc>https://aasc2022.netlify.com/news/workshop-genstat-22-masterclass-data-mining-and-advanced-modelling/</loc>
     <lastmod>2020-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/invited-speaker-a-prof-emyln-williams/</loc>
+    <loc>https://aasc2022.netlify.com/news/invited-speaker-a-prof-emlyn-williams/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/workshop-tidy-model-selection-for-practioners/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aasc2020.netlify.com/news/invited-speaker-dr-francis-hui/</loc>
+    <loc>https://aasc2022.netlify.com/news/invited-speaker-dr-francis-hui/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/things-to-do/</loc>
+    <loc>https://aasc2022.netlify.com/news/things-to-do/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/aasc2020-coming-to-victoria/</loc>
+    <loc>https://aasc2022.netlify.com/news/aasc2020-coming-to-victoria/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/news/mailinglist/</loc>
+    <loc>https://aasc2022.netlify.com/news/mailinglist/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/code_of_conduct/</loc>
+    <loc>https://aasc2022.netlify.com/abstract/</loc>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/contact/</loc>
+    <loc>https://aasc2022.netlify.com/accommodation/</loc>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/programme/</loc>
+    <loc>https://aasc2022.netlify.com/code_of_conduct/</loc>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/faq/</loc>
+    <loc>https://aasc2022.netlify.com/contact/</loc>
   </url>
   
   <url>
-    <loc>https://aasc2020.netlify.com/tags/</loc>
+    <loc>https://aasc2022.netlify.com/programme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/workshops/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/registration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/social/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/speakers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aasc2022.netlify.com/tags/</loc>
   </url>
   
 </urlset>

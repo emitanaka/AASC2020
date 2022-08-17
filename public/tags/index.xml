@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Australasian Applied Statistics Conference</title>
-    <link>https://aasc2020.netlify.com/tags/</link>
+    <link>https://aasc2022.netlify.com/tags/</link>
     <description>Recent content in Tags on Australasian Applied Statistics Conference</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aasc2020.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-au</language><atom:link href="https://aasc2022.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Australasian Applied Statistics Conference</title>
-    <link>https://aasc2020.netlify.com/categories/</link>
+    <link>https://aasc2022.netlify.com/categories/</link>
     <description>Recent content in Categories on Australasian Applied Statistics Conference</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aasc2020.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-au</language>
+    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aasc2022.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>invited</title>
-      <link>https://aasc2020.netlify.com/categories/invited/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <title>workshop</title>
+      <link>https://aasc2022.netlify.com/categories/workshop/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aasc2020.netlify.com/categories/invited/</guid>
+      <guid>https://aasc2022.netlify.com/categories/workshop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>workshop</title>
-      <link>https://aasc2020.netlify.com/categories/workshop/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <title>invited</title>
+      <link>https://aasc2022.netlify.com/categories/invited/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://aasc2020.netlify.com/categories/workshop/</guid>
+      <guid>https://aasc2022.netlify.com/categories/invited/</guid>
       <description></description>
     </item>
     

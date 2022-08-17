@@ -9,6 +9,9 @@ tags: []
 summary: "Deep Learning for prediction and forecasting of Agricultural processes"
 ---
 
+Please note that this talk is cancelled due to speaker's unavailability.
+
+
 ## Deep Learning for prediction and forecasting of Agricultural processes
 
 <img src="/img/speakers/petra_2019_crop.jpg" width="200px"/>
