@@ -141,10 +141,11 @@ Shuttle services to RACV Resort, Inverloch from Melbourne Airport and Southern C
 <h3>Return to Melbourne Airport </h3>
 Conference attendees will be offered a drop off service to Melbourne Airport, departing RACV Inverloch 1:30 pm and estimated to arrive at Melbourne Airport at 5:15 pm on Friday, 02/12/2022. 
 
+</div>
 
 <hr>
 
-# Register Now
+# Register Now  
 
 To register, select a button from the table below.
 
@@ -154,17 +155,15 @@ To book conference/workshop and a tour, first register for the conference/worksh
 
 If you need separate receipts for the conference and a tour, complete the booking process separately for each. This involves some repetition.
 
-As you register for the conference, choose to stay informed about future AASConferences and eligible to vote on who gets to organise the next AASConference, by accepting free membership of AGUAi.
-(AGUAi - The Australasian Genstat Users Association inc. was established to organise the Australasion Genstat Conference which subsequently became the Austalasian Applied Statistics Conference)
+As you register for the conference, choose to stay informed about future AASConferences and eligible to vote on who gets to organise the next AASConference, by accepting free membership of AGUAi. AGUAi (The Australasian Genstat Users Association Inc.) was established to organise the Australasion Genstat Conference which subsequently became the Austalasian Applied Statistics Conference.
 
 The formal objectives of AGUAi are: 
 
 * to foster association between persons involved or interested in using Genstat
-* to foster association between persons involved or interested in the application of
-statistical methods
+* to foster association between persons involved or interested in the application of statistical methods
 * to organise meetings and events focussed on statistical and statistical computing issues.
 
-The Rules of Association are available <a href="files/AGUAi rules of Association 2019.pdf" download>here</a>. 
+The Rules of Association are available <a href="../files/AGUAi_rules_of_Association_2019.pdf" download>here</a>. 
 
 </div>
 
@@ -190,9 +189,9 @@ The Rules of Association are available <a href="files/AGUAi rules of Association
 
 
 
-<div class="container" style="text-align:left">
 <h2>Cancellation Policy</h2>
 
+<div class="container" style="text-align:left">
 
 Cancellations must be notified in writing to aasconf2022@gmail.com
 
@@ -202,6 +201,5 @@ Cancellations notified before 1st October 2022 will be given an 80% refund. Afte
 
 In the case of the conference being cancelled, full refund excluding an administration fee of $AUD20 will be provided. 
 </div>
-
 
 <br><br>
