@@ -18,6 +18,4 @@ Arthur Gilmour obtained his B Sc Agr from Sydney University majoring in Biometry
 
 ### Talk Overview:
 
-The linear mixed model has proved a very useful tool for data analysis, especially in the contexts of plant and animal breeding, agricultural experimentation and data exploration.  The design of ASReml allows it to fit a large range of linear mixed models in a variety of contexts.  The key features are the use of various correlation structures, use of direct product variance structures and sparse computing methods facilitating the fitting of large models.  The linear mixed model has been extended to generalised linear mixed models and hierarchal generalised linear mixed models.  The paper will outline the joint model of mean and dispersion.  
-
- 
+The (hierarchal generalized) linear (mixed) model has proved a very useful tool for data analysis, especially in the contexts of plant and animal breeding, agricultural experimentation and data exploration.  After 50 years using these models, some issues continue to arise. I plan to outline recent improvements to ASReml and my somewhat pragmatic approach to some of the perennial issues including: testing fixed effects, fixed or random, alternative random models, dropping model terms and other model simplifications.
