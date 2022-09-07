@@ -16,10 +16,18 @@ Arthur Gilmour obtained his B Sc Agr from Sydney University majoring in Biometry
 The linear mixed model has proved a very useful tool for data analysis, especially in the contexts of plant and animal breeding, agricultural experimentation and data exploration.  The design of ASReml allows it to fit a large range of linear mixed models in a variety of contexts.  The key features are the use of various correlation structures, use of direct product variance structures and sparse computing methods facilitating the fitting of large models.  The linear mixed model has been extended to generalised linear mixed models and hierarchal generalised linear mixed models.  The paper will outline the joint model of mean and dispersion.  
 
 
-## Emulating the Spark bushfire model
 
+## Emulation of the Spark bushfire solver, and building trust in uncertainty
 
-by Carolyn Huston
+<img src="/img/speakers/carolyn.jpg" width="200px"/>
+
+### Biography:
+
+Carolyn Huston is currently a Senior Research Consultant at CSIRO’s Data61, where she has been involved in numerous commercial and strategic research projects related to bushfire risk and resilience, including estimation of fire consequence and loss. She completed a BSc. in Ecology at the University of Alberta, Canada; an MSc. in Biostatistics at the University of Alberta, Canada; and a PhD in Statistics and Simon Fraser University, where she researched West Coast of British Columbia Sockeye fisheries estimation, openings, and related problems using Bayesian hierarchical methods.
+
+### Talk Overview:
+
+Emulations is a potentially useful tool in the context of estimating and predicting potential fire perimeters and associated areas burnt. A key advantage of interest is a speedup in estimation of fire progression, allowing faster exploration of scenarios and more efficient incorporation of uncertainty in reported results. Equally important to the development of the emulator is building trust in the technology such that decision makers feel empowered to make decisions using this tool. This work considers both the construction of an emulator, as well as develops a vocabulary and framework to facilitate discussions to build trust better allowing users to understand, accept, and utilize features enabled by the emulator.
 
 
 ## All Under One Roof – The Rise of Joint Species Distribution Modeling in Ecology
@@ -91,3 +99,18 @@ CycDesigN version 8.0 (CD8) has extensive features for the design of field and g
 <li>Piepho, H.P., Williams, E.R. & Michel, V. (2021). Generating row-column field experimental designs with good neighbour balance and even distribution of treatment replications.  Journal of Agronomy and Crop Science 207, 745-753.</li>
 </ul>
 
+
+
+## Uncertainty quantification and communication for the earth sciences
+
+<img src="/img/speakers/ed-cripps.png" width="200px"/>
+
+
+### Biography
+
+Edward Cripps, deputy director of DARE centre (Data Analytics for Resources and Environments), is an Associate Professor in the Department of Mathematics and Statistics at the University of WA. His research interests are in Bayesian longitudinal analysis and spatio-temporal models, and the integration of statistical and physical models. His primary applications are in the statistical modelling of environmental, meteorological and oceanographic processes and their interaction with engineering decision making and asset management. Edward has extensive experience in industry collaboration and translating academic research output into commercially industrial applications. He is currently working in collaboration with Shell, Woodside, Lloyds and the Alan Turing Institute, the UK’s national data science institute.
+
+### Talk Overview:
+
+
+Advances in technology and the availability of data-acquisition devices have increasingly centralised the role of the data analytics in the earth sciences, which in turn inform data driven decision making across science, industry and government.  Still, despite the preponderance of data, empirical based decision making continues to be made under conditions of uncertainty:  data is messy; statistical model selection/estimation is complex;  underlying physics that discretised numeric methods attempt to resolve are mis-specified.  This recognition implies that, when the consequences of decisions are substantial, robust uncertainty quantification ought to accompany the fusion of domain knowledge and empirical evidence.  This talk is based on a series of recent papers, providing an overview on: recent applications/methods developed with earth scientists and industry partners for probabilistic models of meteorological, oceanographical and geophysical processes; experiences on conveying to non-statistical colleagues the meaning of uncertainty and its consequences for decision making; deployment of software for private (industry) and public use. 
