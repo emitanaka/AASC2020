@@ -155,7 +155,11 @@ To book conference/workshop and a tour, first register for the conference/worksh
 
 If you need separate receipts for the conference and a tour, complete the booking process separately for each. This involves some repetition.
 
-As you register for the conference, choose to stay informed about future AASConferences and eligible to vote on who gets to organise the next AASConference, by accepting free membership of AGUAi. AGUAi (The Australasian Genstat Users Association Inc.) was established to organise the Australasion Genstat Conference which subsequently became the Austalasian Applied Statistics Conference.
+**Delegates are recommended to take out travel insurance and book accommodation early in order to get preferred option.**
+
+As you register for the conference, choose to stay informed about future AASConferences and eligible to vote on who gets to organise the next AASConference, by accepting free membership of AGUAi. 
+
+AGUAi (The Australasian Genstat Users Association Inc.) was established to organise the Australasion Genstat Conference which subsequently became the Austalasian Applied Statistics Conference.
 
 The formal objectives of AGUAi are: 
 
