@@ -145,7 +145,7 @@ Conference attendees will be offered a drop off service to Melbourne Airport, de
 
 <hr>
 
-# Register Now  
+<h2>Register Now</h2>
 
 To register, select a button from the table below.
 
