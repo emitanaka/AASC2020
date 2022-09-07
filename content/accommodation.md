@@ -5,7 +5,7 @@ title: Accommodation
 
 # Accommodation Deals
 
-The following prices include breakfasts. To enjoy these discounted rates, attendees must book by calling the Resort directly on [+61 3 5674 0000](tel:+61356740000) and quote the **AUSTRALASIAN APPLIED STATISTICS CONFERENCE**.
+The following prices include breakfasts. To enjoy these discounted rates, attendees must book by calling the Resort directly on [+61 3 5674 0000](tel:+61356740000) (choosing option 4) and quote the **AUSTRALASIAN APPLIED STATISTICS CONFERENCE**.
 
 <!---<div class="container" style="margin-left:auto; margin-right:auto">-->
 <table style="margin:auto;text-align:left;">
