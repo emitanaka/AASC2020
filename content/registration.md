@@ -149,25 +149,29 @@ Conference attendees will be offered a drop off service to Melbourne Airport, de
 
 To register, select a button from the table below.
 
+You can register for conference/workshop and a tour either together or separately, to result in a single or separate receipts.  
+
 <div style="text-align:left;">
 
-To book conference/workshop and a tour, first register for the conference/workshop (select Regular or Student pricing), complete the forms and then click on the ‘>Buy more tickets’ link at the check-out cart (at the bottom left of cart window), and proceed to register for the Tour/Social event. This results in a single receipt statement.
+To book them together, first register for the conference/workshop (select Regular or Student pricing), complete the forms and then click on the ‘>Buy more tickets’ link at the check-out cart (at the bottom left of cart window), and proceed to register for the Tour/Social event. This results in a single receipt statement. 
 
 If you need separate receipts for the conference and a tour, complete the booking process separately for each. This involves some repetition.
 
-**Delegates are recommended to take out travel insurance and book accommodation early in order to get preferred option.**
+<h3>While registering, accept AGUAi membership</h3>
 
-As you register for the conference, choose to stay informed about future AASConferences and eligible to vote on who gets to organise the next AASConference, by accepting free membership of AGUAi. 
+Despite its name, the Australasian Genstat Users Association Inc (AGUAi) exists specifically to organize this biennial conference. As you register for the conference, please accept free membership. You will then be placed on the conference email list to stay informed about future AASConferences and be eligible to vote on who gets to organise the next AASC. For historical reasons the formal objectives of the association are: 
 
-AGUAi (The Australasian Genstat Users Association Inc.) was established to organise the Australasion Genstat Conference which subsequently became the Austalasian Applied Statistics Conference.
 
-The formal objectives of AGUAi are: 
+*	to foster association between persons involved or interested in using Genstat 
+*	to foster association between persons involved or interested in the application of statistical methods 
+*	to organise meetings and events focussed on statistical and statistical computing issues. 
 
-* to foster association between persons involved or interested in using Genstat
-* to foster association between persons involved or interested in the application of statistical methods
-* to organise meetings and events focussed on statistical and statistical computing issues.
+The Rules of Association are available <a href="../files/AGUAi_rules_of_Association_2019.pdf" download>here</a>.
 
-The Rules of Association are available <a href="../files/AGUAi_rules_of_Association_2019.pdf" download>here</a>. 
+<h3>Book accommodation while you can</h3>
+
+Delegates are recommended to book accommodation early in order to get their preferred option. Room availability is limited and, as we move closer to the conference date, RACV will be taking non-conference accommodation bookings from the public. Accommodation elsewhere in Inverloch is likely to involve a daily ~5km commute to the conference venue.
+
 
 </div>
 
