@@ -116,8 +116,8 @@ Shuttle services to RACV Resort, Inverloch from Melbourne Airport and Southern C
   </tr>
   <tr>
     <td> Sunday, 27/11/2022</td>
-    <td>2:00 pm</td>
-    <td>2:45 pm</td>
+    <td>4:00 pm</td>
+    <td>4:45 pm</td>
   </tr>
   <tr>
     <td>Monday, 28/11/2022</td>
