@@ -3,6 +3,26 @@ description: Information about social program and tours
 title: Social Programme
 ---
 
+# Welcome Buffet
+
+This is to be held at 7pm on Monday 28 November and is automatically included in the conference registration fee. 
+
+Extra buffet tickets however can be purchased for accompanying persons at $70 per person.  See [Registration page](/registration/). 
+
+# Poster-session Canapes and Drinks 
+
+This is to be held at 6:45pm on Tuesday 29 November and is automatically included in the conference registration fee. 
+
+Extra buffet tickets however can be purchased for accompanying persons whilst registering at $70 per person.  See [Registration page](/registration/). 
+
+# Conference Dinner
+
+This is to be held at 7pm on Thursday 1 December and is automatically included in the conference registration fee. 
+
+Extra conference dinner tickets however can be purchased for accompanying persons at $120 per person.  See [Registration page](/registration/).   
+
+
+
 # Tours
 
 **NB:** The quoted cost of each tour includes transport and entrance fees _only_.
