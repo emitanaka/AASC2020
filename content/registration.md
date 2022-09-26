@@ -12,7 +12,7 @@ All prices listed below are in Australian Dollars ($ AUD).
 <div style="text-align:left; display: inline-block;">
 <ol>
 <li>Workshop:  Attendance, lunch and morning/afternoon tea</li>
-<li>The conference fee includes attendance, lunches and morning/afternoon teas, welcome dinner buffet, canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday or Monday and drop off to Melbourne Airport on Friday.</li>
+<li>The conference fee includes attendance, lunches and morning/afternoon teas, welcome dinner buffet (Mon), canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday or Monday and drop off to Melbourne Airport on Friday.</li>
 <li>The conference fee for a day includes attendance on the day, lunches and morning/afternoon teas.  To book these you will need to send an email to aasconf2022@gmail.com</li>
 </ol>
 </div>
@@ -87,7 +87,9 @@ All prices listed below are in Australian Dollars ($ AUD).
 <h3>Other prices</h3>
 <div style="text-align:left; display: inline-block;">
 <ul>
-<li>Additional dinner tickets are available for $120 (limited availability)</li>
+<li>Additional Welcome Buffet dinner tickets for the Monday are available at $70 per person</li>
+<li>Additional Canape-cocktail tickets for the poster session on the Tuesday are available at $75 per person.</li>
+<li>Additional Thursday Conference dinner tickets are available for $120 (limited availability)</li>
 <li>Social program prices can be <a href="/social/#tour-combinations">found here</a> and range from $40 to $150</li>
 </ul>
 </div>
@@ -130,7 +132,7 @@ Shuttle services to RACV Resort, Inverloch from Melbourne Airport and Southern C
   <tr>
     <td>Friday, 02/12/2022</td>
     <td>5:15 pm</td>
-    <td>4:30</td>
+    <td>4:30 pm</td>
   </tr>
 </tbody>
 </table>
