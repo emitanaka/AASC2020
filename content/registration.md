@@ -100,7 +100,8 @@ See more details about the social program <a href="/social/#tour-combinations">h
 
 <h2>Transportation</h2>
 <h3>Melbourne Airport and Melbourne City Pick Up </h3>
-Shuttle services to RACV Resort, Inverloch from Melbourne Airport and Southern Cross Train Station are provided for the conference attendees on the following dates and times (Melbourne time).
+
+Shuttle bus services to RACV Resort, Inverloch, from Melbourne Airport and Southern Cross Train Station are provided for conference attendees and accompanying persons on the following dates and times (Melbourne time), at no cost.
 
 <br>
 
@@ -139,9 +140,15 @@ Shuttle services to RACV Resort, Inverloch from Melbourne Airport and Southern C
 
 <br>
 
+An additional bus service, potentially at a different departure time, will be offered if one bus turns
+out to be insufficient on a particular day. If you request bus travel, you will be informed of
+alternative bus times that become available and given the option to swap to them.
+
 
 <h3>Return to Melbourne Airport </h3>
-Conference attendees will be offered a drop off service to Melbourne Airport, departing RACV Inverloch 1:30 pm and estimated to arrive at Melbourne Airport at 5:15 pm on Friday, 02/12/2022. 
+
+
+Conference attendees will be offered a bus drop-off service to Melbourne Airport, departing RACV Inverloch at 1:30 pm and estimated to arrive at Melbourne Airport at 5:15 pm on Friday, 02/12/2022. An express bus to Melbourne Airport will be available if more than one bus is required.
 
 </div>
 
