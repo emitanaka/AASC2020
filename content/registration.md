@@ -13,7 +13,7 @@ All prices listed below are in Australian Dollars ($ AUD).
 <ol>
 <li>Workshop:  Attendance, lunch and morning/afternoon tea</li>
 <li>The conference fee includes attendance, lunches and morning/afternoon teas, welcome dinner buffet (Mon), canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday or Monday and drop off to Melbourne Airport on Friday.</li>
-<li>The conference fee for a day includes attendance on the day, lunches and morning/afternoon teas.  To book these you will need to send an email to aasconf2022@gmail.com</li>
+<li>The fee for a single day includes attendance, lunch and morning/afternoon tea on the day. To book a day-registration you will need to send an email to aasconf2022@gmail.com</li>
 </ol>
 </div>
 
@@ -22,29 +22,24 @@ All prices listed below are in Australian Dollars ($ AUD).
 <thead>
   <tr>
     <th>Item</th>
-    <th>Early Bird Rate<br>(Until 30 Sept. 2022)</th>
     <th>Standard Rate</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Conference and Workshop<br></td>
-    <td>$1020</td>
     <td>$1080</td>
   </tr>
   <tr>
     <td>Conference Registration only</td>
-    <td>$920</td>
     <td>$980</td>
   </tr>
   <tr>
     <td>Workshop Registration only</td>
-    <td>$150</td>
     <td>$200</td>
   </tr>
   <tr>
     <td>Day Registration only</td>
-    <td>$300</td>
     <td>$330</td>
   </tr>
 </tbody>
@@ -56,29 +51,24 @@ All prices listed below are in Australian Dollars ($ AUD).
 <thead>
   <tr>
     <th>Item</th>
-    <th>Early Bird Rate<br>(Until 30 Sept. 2022)</th>
     <th>Standard Rate</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Conference and Workshop<br></td>
-    <td>$620</td>
     <td>$650</td>
   </tr>
   <tr>
     <td>Conference Registration only</td>
-    <td>$550</td>
     <td>$600</td>
   </tr>
   <tr>
     <td>Workshop Registration only</td>
-    <td>$100</td>
     <td>$120</td>
   </tr>
   <tr>
     <td>Day Registration only</td>
-    <td>$150</td>
     <td>$200</td>
   </tr>
 </tbody>
