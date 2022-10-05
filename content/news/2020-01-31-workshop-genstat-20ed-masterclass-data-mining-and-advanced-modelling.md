@@ -1,5 +1,5 @@
 ---
-title: 'Workshop: Genstat 22 Masterclass: data mining and advanced modelling'
+title: 'Workshop: Genstat 23 Masterclass: data mining and advanced modelling'
 author: ''
 date: '2020-01-31'
 slug: workshop-genstat-22-masterclass-data-mining-and-advanced-modelling
@@ -9,7 +9,7 @@ tags: []
 ---
 
 
-## Genstat 22 Masterclass: data mining and advanced modelling
+## Genstat 23 Masterclass: data mining and advanced modelling
 
 In this masterclass we will explore some of the data mining and more advanced statistical modelling facilities available in Genstat. As not all these facilities are available in the menus, the session will begin with a brief recap of Genstat’s command language.
 
@@ -30,7 +30,7 @@ Topics will include:
   * new facilities for assessing fixed models in REML
   * generating reports and exporting results (i.e. interoperability)
   
-The sessions will involve a mixture of examples and practicals, so please bring your laptops (ideally with Genstat 22 already installed).
+The sessions will involve a mixture of examples and practicals, so please bring your laptops (ideally with Genstat 23 already installed).
 
 
 ## Biography of Workshop Presenters
@@ -39,6 +39,8 @@ The sessions will involve a mixture of examples and practicals, so please bring 
 
 <b>Roger Payne</b> leads the development of Genstat at VSN, now working part-time after 15 years in the full-time role of VSN's Chief Science and Technology Officer. He has a degree in Mathematics and a PhD in Mathematical Statistics from University of Cambridge and is a Chartered Statistician of the Royal Statistical Society. Prior to joining VSN, Roger was a statistical consultant and researcher at Rothamsted, becoming their expert on design and analysis of experiments, as well as leader of their statistical computing activities. He originally took over the leadership of Genstat there in 1985 when John Nelder retired. His other statistical interests include generalized and hierarchical generalized linear models, linear mixed models, the study of efficient identification methods (with applications in particular to the identification of yeasts). Roger's statistical research has resulted in 9 books with commercial publishers, as well as over 100 scientific papers. He has a visiting professorship at Liverpool John Moores University, and also retains an honorary position at Rothamsted, to help him keep in touch with practical statistics.
 </div>
+
+<br><br>
 
 <div style="margin-bottom: 20px;display: inline-block;"><img src="/img/speakers/DBaird.jpg" style="float:left;margin:4px 14px 20px 0px;object-fit: cover;object-position: 0% 0%;height: 200px;" width="200px">
 
