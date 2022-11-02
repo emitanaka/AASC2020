@@ -122,8 +122,8 @@ Shuttle bus services to RACV Resort, Inverloch, from Melbourne Airport and South
   </tr>
   <tr>
     <td>Friday, 02/12/2022</td>
-    <td>5:15 pm</td>
-    <td>4:30 pm</td>
+    <td>4:15 pm</td>
+    <td>5:00 pm</td>
   </tr>
 </tbody>
 </table>
@@ -138,7 +138,7 @@ alternative bus times that become available and given the option to swap to them
 <h3>Return to Melbourne Airport </h3>
 
 
-Conference attendees will be offered a bus drop-off service to Melbourne Airport, departing RACV Inverloch at 1:30 pm and estimated to arrive at Melbourne Airport at 5:15 pm on Friday, 02/12/2022. An express bus to Melbourne Airport will be available if more than one bus is required.
+Conference attendees will be offered a bus drop-off service to Melbourne Airport, departing RACV Inverloch at 1:30 pm and estimated to arrive at Melbourne Airport at 4:15 pm, followed by Southern Cross station at 5pm, on Friday, 02/12/2022. An express bus to Melbourne Airport will be available if more than one bus is required.
 
 </div>
 
