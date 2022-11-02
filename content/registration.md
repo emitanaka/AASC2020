@@ -167,6 +167,11 @@ Despite its name, the Australasian Genstat Users Association Inc (AGUAi) exists 
 
 The Rules of Association are available <a href="../files/AGUAi_rules_of_Association_2019.pdf" download>here</a>.
 
+
+<h3>Travel insurance</h3>
+
+We recommend you to get travel insurance.
+
 <h3>Book accommodation while you can</h3>
 
 Delegates are recommended to book accommodation early in order to get their preferred option. Room availability is limited and, as we move closer to the conference date, RACV will be taking non-conference accommodation bookings from the public. Accommodation elsewhere in Inverloch is likely to involve a daily ~5km commute to the conference venue.
