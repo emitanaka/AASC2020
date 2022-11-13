@@ -144,17 +144,10 @@ Conference attendees will be offered a bus drop-off service to Melbourne Airport
 
 <hr>
 
-<h2>Register Now</h2>
-
-To register, select a button from the table below.
-
-You can register for conference/workshop and a tour either together or separately, to result in a single or separate receipts.  
+<h2>Register is now closed</h2>
 
 <div style="text-align:left;">
 
-To book them together, first register for the conference/workshop (select Regular or Student pricing), complete the forms and then click on the ‘>Buy more tickets’ link at the check-out cart (at the bottom left of cart window), and proceed to register for the Tour/Social event. This results in a single receipt statement. 
-
-If you need separate receipts for the conference and a tour, complete the booking process separately for each. This involves some repetition.
 
 <h3>While registering, accept AGUAi membership</h3>
 
@@ -179,8 +172,6 @@ Delegates are recommended to book accommodation early in order to get their pref
 
 </div>
 
-<script async defer src="https://www.trybooking.com/widget.js"></script>
-<div class="tryb-widget" data-type="expressEmbed" data-eid="912658"></div>
 
 
 ## Important dates
