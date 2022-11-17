@@ -6,7 +6,34 @@
     <description>Recent content on Australasian Applied Statistics Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aasc2022.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aasc2022.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invited Speaker: Drs Vanessa Cave, David Baird and Roger Payne</title>
+      <link>https://aasc2022.netlify.com/news/invited-speaker-dr-cave-baird-payne/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aasc2022.netlify.com/news/invited-speaker-dr-cave-baird-payne/</guid>
+      <description>New Developments in Genstat 22</description>
+    </item>
+    
+    <item>
+      <title>Invited Speaker: Dr Carolyn Huston</title>
+      <link>https://aasc2022.netlify.com/news/invited-speaker-dr-huston/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aasc2022.netlify.com/news/invited-speaker-dr-huston/</guid>
+      <description>Emulation of the Spark bushfire solver, and building trust in uncertainty</description>
+    </item>
+    
+    <item>
+      <title>Invited Speaker: Dr Patricia Menéndez</title>
+      <link>https://aasc2022.netlify.com/news/invited-speaker-dr-menendez/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aasc2022.netlify.com/news/invited-speaker-dr-menendez/</guid>
+      <description>Practical steps toward reproducibility</description>
+    </item>
+    
     <item>
       <title>Workshop: Data Visualisation with R</title>
       <link>https://aasc2022.netlify.com/news/workshop-datavis/</link>
@@ -42,7 +69,16 @@ The Genstat team is dispersed over the two hemispheres, and so we are used to co
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/news/dare-session/</guid>
-      <description>Improving predictions by integrating Data Science and Domain Science in Resources and the Environment Over the last decade there has been a rush to use Data Science applications in areas such as Geology, Ecology and Hydrology. However, in many cases this has either been a relatively limited application of Data Science tools within a complex Domain Science problem, or a more theoretical Data Science approach on a very limited Domain Science problem.</description>
+      <description>Improving predictions by integrating Data Science and Domain Science in Resources and the Environment Biography Edward Cripps, deputy director of DARE centre (Data Analytics for Resources and Environments), is an Associate Professor in the Department of Mathematics and Statistics at the University of WA. His research interests are in Bayesian longitudinal analysis and spatio-temporal models, and the integration of statistical and physical models. His primary applications are in the statistical modelling of environmental, meteorological and oceanographic processes and their interaction with engineering decision making and asset management.</description>
+    </item>
+    
+    <item>
+      <title>Invited Speaker: A/Prof Edward Cripps</title>
+      <link>https://aasc2022.netlify.com/news/invited-speaker-aprof-cripps/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aasc2022.netlify.com/news/invited-speaker-aprof-cripps/</guid>
+      <description>Uncertainty quantification and communication for the earth sciences Biography Edward Cripps, deputy director of DARE centre (Data Analytics for Resources and Environments), is an Associate Professor in the Department of Mathematics and Statistics at the University of WA. His research interests are in Bayesian longitudinal analysis and spatio-temporal models, and the integration of statistical and physical models. His primary applications are in the statistical modelling of environmental, meteorological and oceanographic processes and their interaction with engineering decision making and asset management.</description>
     </item>
     
     <item>
@@ -84,12 +120,12 @@ Afternoon session: Looking at the model in the data space This part will cover t
     </item>
     
     <item>
-      <title>Workshop: Genstat 22 Masterclass: data mining and advanced modelling</title>
+      <title>Workshop: Genstat 23 Masterclass: data mining and advanced modelling</title>
       <link>https://aasc2022.netlify.com/news/workshop-genstat-22-masterclass-data-mining-and-advanced-modelling/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/news/workshop-genstat-22-masterclass-data-mining-and-advanced-modelling/</guid>
-      <description>Genstat 22 Masterclass: data mining and advanced modelling In this masterclass we will explore some of the data mining and more advanced statistical modelling facilities available in Genstat. As not all these facilities are available in the menus, the session will begin with a brief recap of Genstat’s command language.
+      <description>Genstat 23 Masterclass: data mining and advanced modelling In this masterclass we will explore some of the data mining and more advanced statistical modelling facilities available in Genstat. As not all these facilities are available in the menus, the session will begin with a brief recap of Genstat’s command language.
 Topics will include:
  Genstat command language Data mining  association rules self-organising maps discriminant analysis support vector machines classification trees and random forests k-nearest-neighbours classification   Advanced modelling  specialised regression (e.</description>
     </item>
@@ -157,7 +193,7 @@ Submit now on EasyChair https://easychair.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/accommodation/</guid>
-      <description>Accommodation Deals The following prices include breakfasts. To enjoy these discounted rates, attendees must book by calling the Resort directly on +61 3 5674 0000 and quote the AUSTRALASIAN APPLIED STATISTICS CONFERENCE.
+      <description>Accommodation Deals The following prices include breakfasts. To enjoy these discounted rates, attendees must book by calling the Resort directly on +61 3 5674 0000 (choosing option 4) and quote the AUSTRALASIAN APPLIED STATISTICS CONFERENCE.
 --   Room Type 1 person 2 persons      Resort Rooms AUD 188.00 AUD 214.00    Ocean View Rooms AUD 209.00 AUD 235.00    Premium Ocean View Rooms AUD 230.</description>
     </item>
     
@@ -181,15 +217,6 @@ AASC Organising Committee  Murray Hannah (Chair) Debra Partington (Agriculture V
     </item>
     
     <item>
-      <title>Draft Programme</title>
-      <link>https://aasc2022.netlify.com/programme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aasc2022.netlify.com/programme/</guid>
-      <description>You can download the draft programme here. Please note that the programme may be subject to change.</description>
-    </item>
-    
-    <item>
       <title>FAQ</title>
       <link>https://aasc2022.netlify.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -209,9 +236,19 @@ AASC Organising Committee  Murray Hannah (Chair) Debra Partington (Agriculture V
       <guid>https://aasc2022.netlify.com/workshops/</guid>
       <description>There are two workshops available for registration as listed below. All workshops will be held on Monday 28th November 2022.
 Registration for the workshops can be completed via the registration page, either combined with conference registration, or separately.
-Genstat 20ed Masterclass: data mining and advanced modelling by Roger Payne, David Baird &amp;amp; Vanessa Cave
+Genstat 23rd Masterclass: data mining and advanced modelling by Roger Payne, David Baird &amp;amp; Vanessa Cave
 Data Visualisation with R by Emi Tanaka
 Please note that the Visualization and Data Mining workshop by Di Cook is cancelled.</description>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>https://aasc2022.netlify.com/programme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aasc2022.netlify.com/programme/</guid>
+      <description>📌 You can download the booklet here and A4 programme here.
+You can download the programme here. Please note that the programme may be subject to change.</description>
     </item>
     
     <item>
@@ -220,7 +257,7 @@ Please note that the Visualization and Data Mining workshop by Di Cook is cancel
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/registration/</guid>
-      <description>Conference prices All prices listed below are in Australian Dollars ($ AUD). Registration covers:  Workshop: Attendance, lunch and morning/afternoon tea The conference fee includes attendance, lunches and morning/afternoon teas, welcome dinner buffet, canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday or Monday and drop off to Melbourne Airport on Friday. The conference fee for a day includes attendance on the day, lunches and morning/afternoon teas.</description>
+      <description>Conference prices All prices listed below are in Australian Dollars ($ AUD). Registration covers:  Workshop: Attendance, lunch and morning/afternoon tea The conference fee includes attendance, lunches and morning/afternoon teas, welcome dinner buffet (Mon), canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday or Monday and drop off to Melbourne Airport on Friday. The fee for a single day includes attendance, lunch and morning/afternoon tea on the day.</description>
     </item>
     
     <item>
@@ -229,9 +266,10 @@ Please note that the Visualization and Data Mining workshop by Di Cook is cancel
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/social/</guid>
-      <description>Tours NB: The quoted cost of each tour includes transport and entrance fees only.
-When you pack for this conference bear in mind that in late November, Victoria can dish up any kind of weather, and probably will. Four seasons in one day is unusual, but not that unusual. So be prepared for the extremes of hot and cold which ever excursion you have in mind.
-Eleven tour options are available.</description>
+      <description>Welcome Buffet This is to be held at 7pm on Monday 28 November and is automatically included in the conference registration fee.
+Extra buffet tickets however can be purchased for accompanying persons at $70 per person. See Registration page.
+Poster-session Canapes and Drinks This is to be held at 6:45pm on Tuesday 29 November and is automatically included in the conference registration fee.
+Extra buffet tickets however can be purchased for accompanying persons whilst registering at $70 per person.</description>
     </item>
     
     <item>

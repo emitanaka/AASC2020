@@ -6,14 +6,50 @@
     <description>Recent content in invited on Australasian Applied Statistics Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aasc2022.netlify.com/categories/invited/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aasc2022.netlify.com/categories/invited/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invited Speaker: Drs Vanessa Cave, David Baird and Roger Payne</title>
+      <link>https://aasc2022.netlify.com/news/invited-speaker-dr-cave-baird-payne/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aasc2022.netlify.com/news/invited-speaker-dr-cave-baird-payne/</guid>
+      <description>New Developments in Genstat 22</description>
+    </item>
+    
+    <item>
+      <title>Invited Speaker: Dr Carolyn Huston</title>
+      <link>https://aasc2022.netlify.com/news/invited-speaker-dr-huston/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aasc2022.netlify.com/news/invited-speaker-dr-huston/</guid>
+      <description>Emulation of the Spark bushfire solver, and building trust in uncertainty</description>
+    </item>
+    
+    <item>
+      <title>Invited Speaker: Dr Patricia Menéndez</title>
+      <link>https://aasc2022.netlify.com/news/invited-speaker-dr-menendez/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aasc2022.netlify.com/news/invited-speaker-dr-menendez/</guid>
+      <description>Practical steps toward reproducibility</description>
+    </item>
+    
     <item>
       <title>Improving predictions by integrating Data Science and Domain Science in Resources and the Environment</title>
       <link>https://aasc2022.netlify.com/news/dare-session/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/news/dare-session/</guid>
-      <description>Improving predictions by integrating Data Science and Domain Science in Resources and the Environment Over the last decade there has been a rush to use Data Science applications in areas such as Geology, Ecology and Hydrology. However, in many cases this has either been a relatively limited application of Data Science tools within a complex Domain Science problem, or a more theoretical Data Science approach on a very limited Domain Science problem.</description>
+      <description>Improving predictions by integrating Data Science and Domain Science in Resources and the Environment Biography Edward Cripps, deputy director of DARE centre (Data Analytics for Resources and Environments), is an Associate Professor in the Department of Mathematics and Statistics at the University of WA. His research interests are in Bayesian longitudinal analysis and spatio-temporal models, and the integration of statistical and physical models. His primary applications are in the statistical modelling of environmental, meteorological and oceanographic processes and their interaction with engineering decision making and asset management.</description>
+    </item>
+    
+    <item>
+      <title>Invited Speaker: A/Prof Edward Cripps</title>
+      <link>https://aasc2022.netlify.com/news/invited-speaker-aprof-cripps/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aasc2022.netlify.com/news/invited-speaker-aprof-cripps/</guid>
+      <description>Uncertainty quantification and communication for the earth sciences Biography Edward Cripps, deputy director of DARE centre (Data Analytics for Resources and Environments), is an Associate Professor in the Department of Mathematics and Statistics at the University of WA. His research interests are in Bayesian longitudinal analysis and spatio-temporal models, and the integration of statistical and physical models. His primary applications are in the statistical modelling of environmental, meteorological and oceanographic processes and their interaction with engineering decision making and asset management.</description>
     </item>
     
     <item>

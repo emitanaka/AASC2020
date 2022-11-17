@@ -6,22 +6,22 @@
     <description>Recent content in Categories on Australasian Applied Statistics Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aasc2022.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aasc2022.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>invited</title>
+      <link>https://aasc2022.netlify.com/categories/invited/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aasc2022.netlify.com/categories/invited/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>workshop</title>
       <link>https://aasc2022.netlify.com/categories/workshop/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/categories/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>invited</title>
-      <link>https://aasc2022.netlify.com/categories/invited/</link>
-      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://aasc2022.netlify.com/categories/invited/</guid>
       <description></description>
     </item>
     
