@@ -10,4 +10,5 @@ title: Programme
 
 Please note that the programme may be subject to change.
 
+<embed src="/files/ProgramA4.pdf" type="application/pdf" width="100%" height="600px" />
 
