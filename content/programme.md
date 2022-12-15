@@ -14,7 +14,7 @@ Click on the name of the presenter to see the slides.
 
 ### Tuesday 
 
-* [**Carolyn Hudson**: Building trust in uncertainty](<talks/TuesdayInvited/CarolynHustonAASC_Trust.pptm>) 
+* [**Carolyn Huston**: Building trust in uncertainty](<talks/TuesdayInvited/CarolynHustonAASC_Trust.pptm>) 
 * [**Clayton Forknall**: A linear mixed model approach to the analysis of a multi-phase barley malt proteomics experiment](<talks/Tuesday 1030/1. AASC22_Forknall_FINAL.pptx>)
 * [**Lu Wang**: Multi-phase design and analysis using a single step multi-experiment approach with factor analytic models to improve accuracy of late maturity α-amylase classification in wheat](<talks/Tuesday 1030/2. AASCLUWANG.pdf>)
 * [**Chris Brien**: The analysis of a two-phase experiment involving human subjects using ASReml-R & asremlPlus](<talks/Tuesday 1030/3. TwoPhaseHumanExptASReml.v3.pptx>)
