@@ -61,6 +61,22 @@ Click on the name of the presenter to see the slides.
 * [**Thomas Lumley**:   Managing and modelling multiple-response data](<talks/Friday10/4. Thomas Lumley aasc-rata-rimu.pdf>)
 * [**Murray Hannah**:  Sensitivity – a flexible criterion for comparison of measurement methods: Is the gold standard actually made of gold?](<talks/Friday10/5. Talk_Murray_Hannah.pptx>)
 
+## Poster Slide Presentations
+
+- [Jessica Penfold presented by Stellos Georgiou](<talks/Posters/1. Stellos Georgiou OneMinPresentation.pptx>)
+- [Quan Vu](<talks/Posters/2. QuanVu_Presentation_1min.pdf>)
+- [Tomomi Yamada presented jointly with Tsuyoshi Nakamura](<talks/Posters/3. Tomomi AASC poster.pptx>)
+- [Andrew Grose](<talks/Posters/4. ATLA & the forward search.pptx>)
+- [Tong Chen](<talks/Posters/5. Slide_Tong.pdf>), [Poster](<talks/Posters/5. posterTong Chen.pdf>)
+- [Mohammad Javad Davoudabadi](<talks/Posters/6. poster(Mohammad_Javad_Davoudabadi).pdf>) 
+- [Maryann Staincliffe](<talks/Posters/8. poster Staincliffe M v2.pub>) 
+- [Alex Shaw](<talks/Posters/9. Alex shaw poster talk.pptx>) 
+- [Sepideh Sharif](<talks/Posters/11. Sepideh Sharif AASC-2022-Final_SS.pdf>) 
+- [Annie Conway](<talks/Posters/13. poster_annieconway.pdf>) 
+- [Jiaxu (Jimmy) Zeng](<talks/Posters/16. poster_Jiaxu Zeng.pptx>) 
+- [Yan Wang](<talks/Posters/17. AASC2022_Poster_Yan Wang.pdf>) 
+- [Amalan Mahendran](<talks/Posters/18. Amalan Mahendran A model robust design approach for optimally subsampling.pdf>) 
+
 
 ## AGM documents
 
