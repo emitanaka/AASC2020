@@ -59,7 +59,7 @@
       
       <guid>https://aasc2022.netlify.com/news/aasc2020-webinar/</guid>
       <description>The 2020 AASC AGM took place on 3 December 2020. You can find the videos of each presentation below with the abstracts.
- ASReml and Genomic models Development of Genomic tools to support ASReml-R Genstat development in difficult times CycDesigN Version 7.0 Update  ASReml and Genomic models   Arthur R Gilmour It is 50 years since Arthur began working as a biometrician with NSW DPI (1970) having majored in biometry in the 4th year of his B Sc AGr (Sydney).</description>
+ASReml and Genomic models Development of Genomic tools to support ASReml-R Genstat development in difficult times CycDesigN Version 7.0 Update ASReml and Genomic models Arthur R Gilmour It is 50 years since Arthur began working as a biometrician with NSW DPI (1970) having majored in biometry in the 4th year of his B Sc AGr (Sydney).</description>
     </item>
     
     <item>
@@ -123,7 +123,7 @@ The Genstat team is dispersed over the two hemispheres, and so we are used to co
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/news/workshop-visualization-and-data-mining/</guid>
-      <description>[This workshop is now cancelled]{style=&amp;ldquo;color:red;&amp;quot;} and replaced with Data Visualisation with R.
+      <description>[This workshop is now cancelled]{style=&amp;ldquo;color:red;&amp;rdquo;} and replaced with Data Visualisation with R.
 Visualization and Data Mining Morning session: Sustenance for the every day statistical analysis This part covers making plots using the grammar of graphics and how this fits into statistical inference. We will use the tidyverse suite of packages and nullabor.
 Afternoon session: Looking at the model in the data space This part will cover the use of tours to examine multivariate spaces, in relation to various data mining methods, including dimension reduction, supervised and unsupervised classification models.</description>
     </item>
@@ -136,7 +136,7 @@ Afternoon session: Looking at the model in the data space This part will cover t
       <guid>https://aasc2022.netlify.com/news/workshop-genstat-22-masterclass-data-mining-and-advanced-modelling/</guid>
       <description>Genstat 23 Masterclass: data mining and advanced modelling In this masterclass we will explore some of the data mining and more advanced statistical modelling facilities available in Genstat. As not all these facilities are available in the menus, the session will begin with a brief recap of Genstat’s command language.
 Topics will include:
- Genstat command language Data mining  association rules self-organising maps discriminant analysis support vector machines classification trees and random forests k-nearest-neighbours classification   Advanced modelling  specialised regression (e.</description>
+Genstat command language Data mining association rules self-organising maps discriminant analysis support vector machines classification trees and random forests k-nearest-neighbours classification Advanced modelling specialised regression (e.</description>
     </item>
     
     <item>

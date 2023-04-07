@@ -59,7 +59,7 @@
       
       <guid>https://aasc2022.netlify.com/news/aasc2020-webinar/</guid>
       <description>The 2020 AASC AGM took place on 3 December 2020. You can find the videos of each presentation below with the abstracts.
- ASReml and Genomic models Development of Genomic tools to support ASReml-R Genstat development in difficult times CycDesigN Version 7.0 Update  ASReml and Genomic models   Arthur R Gilmour It is 50 years since Arthur began working as a biometrician with NSW DPI (1970) having majored in biometry in the 4th year of his B Sc AGr (Sydney).</description>
+ASReml and Genomic models Development of Genomic tools to support ASReml-R Genstat development in difficult times CycDesigN Version 7.0 Update ASReml and Genomic models Arthur R Gilmour It is 50 years since Arthur began working as a biometrician with NSW DPI (1970) having majored in biometry in the 4th year of his B Sc AGr (Sydney).</description>
     </item>
     
     <item>
@@ -123,7 +123,7 @@ The Genstat team is dispersed over the two hemispheres, and so we are used to co
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/news/workshop-visualization-and-data-mining/</guid>
-      <description>[This workshop is now cancelled]{style=&amp;ldquo;color:red;&amp;quot;} and replaced with Data Visualisation with R.
+      <description>[This workshop is now cancelled]{style=&amp;ldquo;color:red;&amp;rdquo;} and replaced with Data Visualisation with R.
 Visualization and Data Mining Morning session: Sustenance for the every day statistical analysis This part covers making plots using the grammar of graphics and how this fits into statistical inference. We will use the tidyverse suite of packages and nullabor.
 Afternoon session: Looking at the model in the data space This part will cover the use of tours to examine multivariate spaces, in relation to various data mining methods, including dimension reduction, supervised and unsupervised classification models.</description>
     </item>
@@ -136,7 +136,7 @@ Afternoon session: Looking at the model in the data space This part will cover t
       <guid>https://aasc2022.netlify.com/news/workshop-genstat-22-masterclass-data-mining-and-advanced-modelling/</guid>
       <description>Genstat 23 Masterclass: data mining and advanced modelling In this masterclass we will explore some of the data mining and more advanced statistical modelling facilities available in Genstat. As not all these facilities are available in the menus, the session will begin with a brief recap of Genstat’s command language.
 Topics will include:
- Genstat command language Data mining  association rules self-organising maps discriminant analysis support vector machines classification trees and random forests k-nearest-neighbours classification   Advanced modelling  specialised regression (e.</description>
+Genstat command language Data mining association rules self-organising maps discriminant analysis support vector machines classification trees and random forests k-nearest-neighbours classification Advanced modelling specialised regression (e.</description>
     </item>
     
     <item>
@@ -191,9 +191,10 @@ Topics will include:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/abstract/</guid>
-      <description>p { max-width: 500px; }  The Australasian Applied Statistic Conference 2022 invites the submission of abstracts for original work. Abstracts will be considered for oral and/or poster presentation in the AASC2022 scientific programme.
+      <description>The Australasian Applied Statistic Conference 2022 invites the submission of abstracts for original work. Abstracts will be considered for oral and/or poster presentation in the AASC2022 scientific programme.
 The submission of abstracts for AASC2022 will be managed through the online conference management system EasyChair. If you do not have an EasyChair login, you’ll be asked to create a free account.
-Submit now on EasyChair https://easychair.</description>
+Submit now on EasyChair https://easychair.org/conferences/?conf=aasc2022
+Abstract Deadline Dates Date Abstract Submissions Open 4th July 2022 Abstract Submissions Closed 31st August 2022 Authors’ Notification 22nd September 2022 Early Bird Deadline 30th September 2022 Registration Closes 11th November 2022 Themes for AASC2022 Themes of AASC2022 are (but not limited to):</description>
     </item>
     
     <item>
@@ -203,7 +204,7 @@ Submit now on EasyChair https://easychair.</description>
       
       <guid>https://aasc2022.netlify.com/accommodation/</guid>
       <description>Accommodation Deals The following prices include breakfasts. To enjoy these discounted rates, attendees must book by calling the Resort directly on +61 3 5674 0000 (choosing option 4) and quote the AUSTRALASIAN APPLIED STATISTICS CONFERENCE.
---   Room Type 1 person 2 persons      Resort Rooms AUD 188.00 AUD 214.00    Ocean View Rooms AUD 209.00 AUD 235.00    Premium Ocean View Rooms AUD 230.</description>
+Room Type 1 person 2 persons Resort Rooms AUD 188.00 AUD 214.00 Ocean View Rooms AUD 209.00 AUD 235.00 Premium Ocean View Rooms AUD 230.00 AUD 256.00 Deluxe Two Bedroom Cabins AUD 209.00 AUD 235.00 Note: Accommodation can be viewed on the RACV Inverloch website.</description>
     </item>
     
     <item>
@@ -222,7 +223,7 @@ Submit now on EasyChair https://easychair.</description>
       
       <guid>https://aasc2022.netlify.com/contact/</guid>
       <description>For enquiries please email ✉️ aasconf2022@gmail.com.
-AASC Organising Committee  Murray Hannah (Chair) Debra Partington (Agriculture Victoria, Treasurer) Khageswor Giri (Agriculture Victoria, Secretary) Subhash Chandra: VIC David Baird: NZ Vanessa Cave: NZ Chris Triggs: NZ Ruth Butler: NZ Angela Anderson: QLD Pauline O&amp;rsquo;Shaughnessy: NSW Emi Tanaka: VIC Kym Butler: VIC Sorn Norng: VIC Peter Kasprzak: SA Pierre Lafaye de Micheaux: NSW Benoit Liquet: NSW Roger Payne: VSNi  </description>
+AASC Organising Committee Murray Hannah (Chair) Debra Partington (Agriculture Victoria, Treasurer) Khageswor Giri (Agriculture Victoria, Secretary) Subhash Chandra: VIC David Baird: NZ Vanessa Cave: NZ Chris Triggs: NZ Ruth Butler: NZ Angela Anderson: QLD Pauline O&amp;rsquo;Shaughnessy: NSW Emi Tanaka: VIC Kym Butler: VIC Sorn Norng: VIC Peter Kasprzak: SA Pierre Lafaye de Micheaux: NSW Benoit Liquet: NSW Roger Payne: VSNi </description>
     </item>
     
     <item>
@@ -232,9 +233,9 @@ AASC Organising Committee  Murray Hannah (Chair) Debra Partington (Agriculture V
       
       <guid>https://aasc2022.netlify.com/faq/</guid>
       <description>Do I have to register for the conference to sign up for the workshop?
- No. You can register for the workshop alone.
- Is there a code of conduct for this conference?
- Yes there is. Registrants are required to abide by code of conduct found here.</description>
+No. You can register for the workshop alone.
+Is there a code of conduct for this conference?
+Yes there is. Registrants are required to abide by code of conduct found here.</description>
     </item>
     
     <item>
@@ -258,7 +259,7 @@ Please note that the Visualization and Data Mining workshop by Di Cook is cancel
       <guid>https://aasc2022.netlify.com/programme/</guid>
       <description>📌 You can download the booklet here and A4 programme here.
 Slides Click on the name of the presenter to see the slides.
-Tuesday  Carolyn Huston: Building trust in uncertainty Clayton Forknall: A linear mixed model approach to the analysis of a multi-phase barley malt proteomics experiment Lu Wang: Multi-phase design and analysis using a single step multi-experiment approach with factor analytic models to improve accuracy of late maturity α-amylase classification in wheat Chris Brien: The analysis of a two-phase experiment involving human subjects using ASReml-R &amp;amp; asremlPlus Bethany Rognoni: When two’s a crowd!</description>
+Tuesday Carolyn Huston: Building trust in uncertainty Clayton Forknall: A linear mixed model approach to the analysis of a multi-phase barley malt proteomics experiment Lu Wang: Multi-phase design and analysis using a single step multi-experiment approach with factor analytic models to improve accuracy of late maturity α-amylase classification in wheat Chris Brien: The analysis of a two-phase experiment involving human subjects using ASReml-R &amp;amp; asremlPlus Bethany Rognoni: When two’s a crowd!</description>
     </item>
     
     <item>
@@ -267,7 +268,7 @@ Tuesday  Carolyn Huston: Building trust in uncertainty Clayton Forknall: A linea
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aasc2022.netlify.com/registration/</guid>
-      <description>Conference prices All prices listed below are in Australian Dollars ($ AUD). Registration covers:  Workshop: Attendance, lunch and morning/afternoon tea The conference fee includes attendance, lunches and morning/afternoon teas, welcome dinner buffet (Mon), canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday or Monday and drop off to Melbourne Airport on Friday. The fee for a single day includes attendance, lunch and morning/afternoon tea on the day.</description>
+      <description>Conference prices All prices listed below are in Australian Dollars ($ AUD). Registration covers: Workshop: Attendance, lunch and morning/afternoon tea The conference fee includes attendance, lunches and morning/afternoon teas, welcome dinner buffet (Mon), canape cocktail (Tues), conference dinner (Thurs), bus transport from Melbourne to RACV, Inverloch on Sunday or Monday and drop off to Melbourne Airport on Friday. The fee for a single day includes attendance, lunch and morning/afternoon tea on the day.</description>
     </item>
     
     <item>
